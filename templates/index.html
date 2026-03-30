@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FastAPI CSV App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 24px;
+            background: #f6f7fb;
+        }
+        h1 {
+            margin-bottom: 16px;
+        }
+        .box {
+            background: white;
+            padding: 16px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+        }
+        button {
+            padding: 8px 14px;
+            cursor: pointer;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            background: white;
+            font-size: 14px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background: #f0f0f0;
+        }
+        .msg {
+            color: green;
+            margin-top: 10px;
+        }
+        .empty {
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <h1>FastAPI CSV App</h1>
+
+    <div class="box">
+        <form action="/upload" method="post" enctype="multipart/form-data">
+            <input type="file" name="file" accept=".csv" required>
+            <button type="submit">Upload CSV</button>
+        </form>
+
+        {% if message %}
+            <div class="msg">{{ message }}</div>
+        {% endif %}
+    </div>
+
+    <div class="box">
+        {% if csv_exists and rows %}
+            <h2>Preview dữ liệu</h2>
+            <table>
+                <thead>
+                    <tr>
+                        {% for col in columns %}
+                            <th>{{ col }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in rows %}
+                        <tr>
+                            {% for col in columns %}
+                                <td>{{ row[col] }}</td>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        {% else %}
+            <div class="empty">Chưa có file CSV. Hãy upload file để hiển thị dữ liệu.</div>
+        {% endif %}
+    </div>
+</body>
+</html>
