@@ -1,0 +1,975 @@
+Employee ID;Age;Gender;Education;Job Role;Monthly Income;Work-Life Balance;Job Satisfaction;Performance Rating;Number of Projects;Overtime;Distance From Home;Education Category;Marital Status;Num Job Switches;Company Size;Company Level;Remote Work;Leadership Skill;Innovation Skill;Company Relationship;Employee Involvement;Attrition
+8410;31;Male;4;Education;5390;Excellent;Medium;2;;No;22;Associate C;Married;0;Mid;Medium;89;No;No;No;Good;Left
+29672;30;Female;4;Education;6979;Poor;High;1;;No;21;MasterM;Divorced;3;Mid;Medium;23;No;No;No;Fair;Stayed
+64756;29;Female;4;Media;8559;Poor;High;3;;No;21;MasterM;Divorced;3;Mid;Medium;21;No;No;No;Fair;Stayed
+60501;36;Female;4;Education;713;High;High;1;;No;71;Associate C;Married;1;Mid;Small;50;No;No;No;Poor;Left
+65026;36;Male;7;Education;3989;Good;High;1;;No;27;High School;Single;2;Mid;Small;50;No;No;No;Good;Stayed
+16405;41;Female;7;Healthcare;4851;Fair;Very High;1;;No;71;High School;Divorced;0;Senior;Medium;68;No;No;No;Good;Stayed
+33430;21;Male;11;Finance;6302;Poor;High;0;;No;19;MasterM;Married;0;Senior;Small;61;No;No;No;Good;Left
+64970;30;Male;23;Education;10937;Fair;High;1;;Yes;75;High School;Married;0;Entry;Small;84;No;No;No;Good;Left
+36999;48;Male;39;Finance;11231;Excellent;Very High;High;1;;No;5;MasterM;Married;4;Entry;Medium;88;No;No;No;Excellent;Left
+17730;28;Male;3;Technology;9561;Good;Medium;2;;Yes;69;High School;Married;0;Entry;Medium;79;No;No;No;Fair;Stayed
+16494;44;Female;24;Healthcare;9833;Poor;High;1;;Yes;57;PhD;Single;0;Entry;Large;0;No;No;No;Good;Left
+29872;30;Female;12;Education;5463;Good;High;1;;No;51;High School;Single;1;Entry;Small;0;No;No;No;Good;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+14996;47;Female;2;Technology;6359;Fair;Very High;1;;No;9;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Left
+28098;31;Male;22;Healthcare;800;Fair;Medium;1;;No;30;Associate C;Divorced;2;Mid;Small;0;No;No;No;Good;Stayed
+22864;49;Female;9;Technology;8050;Good;High;1;;No;88;High School;Single;0;Mid;Large;0;No;No;No;Good;Stayed
+57096;26;Female;17;Media;6523;Good;High;2;;Yes;28;BachelorM;Single;0;Entry;Small;23;Yes;No;No;Good;Left
+55668;19;Female;3;Technology;8242;Excellent;Medium;2;;No;17;High School;Single;3;Mid;Small;0;No;No;No;Fair;Stayed
+19334;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;High;Stayed
+46506;23;Male;2;Media;809;Fair;High;1;;No;23;High School;Divorced;1;Senior;Medium;0;No;No;No;Good;Stayed
+29697;36;Male;9;Healthcare;7538;Fair;Medium;0;;No;10;BachelorM;Married;0;Senior;Small;0;No;No;No;Good;Stayed
+17009;51;Female;41;Finance;8753;Good;High;2;;No;18;MasterM;Divorced;3;Mid;Small;0;No;No;No;Good;Stayed
+18398;37;Male;11;Education;1012;Fair;High;0;;No;0;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Left
+58084;39;Female;1;Finance;8079;Excellent;High;1;;No;1;MasterM;Single;0;Entry;Medium;0;No;No;No;Good;Left
+24208;34;Male;13;Media;5874;Fair;High;0;;No;1;High School;Single;1;Mid;Medium;0;No;No;No;Good;Left
+14713;41;Male;5;Education;4061;Good;Medium;0;;No;1;Associate C;Married;0;Entry;Medium;0;No;No;No;Good;Left
+14748;48;Male;1;Education;7807;Fair;High;1;;No;92;Associate C;Divorced;0;Entry;Medium;0;No;No;No;Good;Left
+13194;23;Male;13;Technology;12507;Fair;High;2;;No;1;High School;Single;1;Mid;Medium;0;Yes;Yes;No;Good;Stayed
+69511;43;Male;13;Technology;7393;Good;Medium;1;;Yes;1;BachelorM;Single;1;Entry;Small;67;No;No;No;Fair;Stayed
+11485;48;Male;1;Education;7233;Good;Medium;0;;Yes;1;BachelorM;Married;0;Senior;Medium;0;No;No;No;Fair;Stayed
+68576;45;Female;34;Finance;8330;Excellent;High;0;;Yes;1;BachelorM;Married;4;Mid;Medium;91;Yes;No;No;Good;Stayed
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+24884;32;Male;1;Education;5601;Poor;Medium;1;;No;1;Associate C;Married;0;Entry;Small;0;No;No;No;Poor;Stayed
+29641;53;Male;44;Healthcare;7384;Poor;Medium;0;;No;1;Associate C;Married;0;Mid;Small;0;No;No;No;Good;Left
+65026;36;Male;7;Education;5050;Good;High;1;;No;27;High School;Single;2;Entry;Medium;0;No;No;No;Excellent;Left
+17737;28;Male;3;Technology;9561;Good;Medium;2;;No;69;High School;Married;0;Entry;Medium;0;No;No;No;Fair;Stayed
+51448;17;Female;6;Finance;7701;Fair;High;0;;Yes;1;High School;Married;1;Entry;Medium;0;Yes;Yes;No;Good;Stayed
+12259;31;Male;11;Media;518;Good;Low;2;;No;2;BachelorM;Single;2;Senior;Small;0;No;No;No;Excellent;Left
+18398;37;Male;11;Education;1012;Fair;High;0;;No;0;MasterM;Married;0;Entry;Medium;88;No;No;No;Good;Left
+17543;45;Female;27;Media;6533;Good;High;2;;Yes;1;Associate C;Married;1;Entry;Small;0;Yes;Yes;No;Poor;Stayed
+74973;17;Female;23;Media;5983;Excellent;Very High;1;;Yes;1;MasterM;Divorced;3;Mid;Medium;0;No;No;No;Good;Stayed
+64805;38;Female;4;Finance;831;Low;Low;2;;No;8;BachelorM;Single;4;Entry;Small;0;No;No;No;Good;Stayed
+28604;31;Female;2;Education;805;Low;Low;2;;No;1;BachelorM;Divorced;0;Entry;Small;0;No;No;No;Good;Stayed
+24350;56;Male;22;Media;6665;Excellent;High;2;;No;1;BachelorM;Divorced;2;Mid;Medium;0;No;No;No;Good;Stayed
+72979;40;Male;12;Media;8781;Good;Very High;1;;Yes;1;BachelorM;Single;1;Entry;Small;0;Yes;Yes;No;Poor;Left
+24437;47;Female;4;Technology;9654;Good;High;0;;Yes;1;BachelorM;Married;1;Entry;Small;0;No;No;No;Poor;Left
+34857;47;Female;36;Technology;8462;Fair;High;1;;Yes;1;Associate C;Single;0;Entry;Medium;67;Yes;No;No;Poor;Left
+28646;25;Female;2;Healthcare;8057;Good;High;2;;No;1;Associate C;Divorced;2;Entry;Medium;23;No;No;No;Good;Stayed
+13577;51;Female;17;Healthcare;6807;Excellent;High;0;;Yes;1;BachelorM;Divorced;2;Entry;Small;68;Yes;No;No;Good;Stayed
+70003;36;Male;8;Technology;9775;Fair;High;1;;Yes;1;BachelorM;Single;1;Mid;Medium;0;No;No;No;Poor;Left
+41885;30;Male;28;Media;5008;Good;High;0;;No;1;Associate C;Married;0;Senior;Small;0;No;No;No;Good;Stayed
+24204;34;Male;13;Technology;5874;Fair;High;0;;No;1;High School;Single;1;Mid;Small;0;No;No;No;Good;Left
+5254;48;Female;18;Technology;7976;Fair;High;0;;Yes;1;MasterM;Married;2;Mid;Small;0;No;No;No;Good;Stayed
+33430;21;Male;11;Media;6302;Poor;High;0;;No;19;MasterM;Married;0;Senior;Small;0;No;No;No;Good;Left
+64756;29;Female;4;Media;8559;Poor;High;3;;No;21;MasterM;Divorced;3;Mid;Small;0;No;No;No;Fair;Stayed
+66579;28;Female;12;Technology;10113;Fair;Medium;2;;No;10;BachelorM;Married;3;Mid;Small;0;No;No;No;Good;Stayed
+54104;28;Male;3;Finance;8673;Excellent;High;0;;No;1;Associate C;Single;1;Entry;Large;0;No;No;No;Good;Left
+18361;47;Male;22;Education;9884;Poor;Very High;1;;No;1;High School;Married;0;Mid;Medium;0;Yes;No;No;Good;Stayed
+4098;30;Female;2;Technology;5040;Fair;Low;1;;No;1;Associate C;Single;2;Entry;Small;0;Yes;No;No;Excellent;Left
+27742;28;Male;13;Technology;6707;Excellent;High;0;;No;1;BachelorM;Single;3;Senior;Small;0;No;No;No;Good;Stayed
+12259;31;Male;11;Media;518;Good;Low;2;;No;2;BachelorM;Single;2;Senior;Small;0;No;No;No;Excellent;Left
+27451;34;Male;33;Media;519;Fair;Medium;0;;Yes;1;High School;Single;2;Mid;Small;0;No;No;No;Fair;Left
+58005;51;Male;16;Healthcare;8407;Good;Very High;1;;No;1;BachelorM;Single;1;Entry;Small;0;No;No;No;Good;Left
+45844;43;Male;18;Education;7962;Fair;Average;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+18392;37;Male;11;Education;1012;Fair;High;0;;No;0;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+18598;35;Female;11;Technology;1012;Fair;High;0;;No;0;BachelorM;Married;0;Senior;Small;0;Yes;No;No;Poor;Stayed
+76059;30;Male;15;Finance;758;Excellent;High;2;;No;1;High School;Married;0;Mid;Medium;0;No;No;No;Fair;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+64242;27;Male;14;Finance;6026;Poor;High;0;;Yes;3;BachelorM;Single;2;Mid;Large;0;No;No;No;Poor;Left
+24437;47;Female;4;Technology;10351;Good;High;0;;Yes;1;BachelorM;Married;1;Entry;Small;0;No;No;No;Poor;Left
+46506;23;Male;2;Technology;809;Fair;High;1;;No;23;High School;Divorced;1;Senior;Medium;0;No;No;No;Good;Stayed
+68364;41;Female;11;Education;4451;Poor;Very High;0;;No;1;Associate C;Married;2;Senior;Medium;0;No;No;No;Excellent;Left
+3169;55;Female;2;Education;359;Good;High;0;;No;1;Associate C;Single;1;Entry;Large;0;No;No;No;Fair;Stayed
+43193;21;Female;10;Healthcare;7987;Fair;Average;0;;No;1;MasterM;Single;1;Entry;Large;0;Yes;No;No;High;Stayed
+43193;21;Female;10;Healthcare;7987;Fair;Average;0;;No;1;MasterM;Single;1;Entry;Large;0;Yes;No;No;High;Stayed
+67257;53;Female;23;Healthcare;8876;Fair;Low;2;;Yes;3;High School;Married;3;Entry;Medium;0;No;No;No;Fair;Stayed
+65026;36;Male;7;Education;5050;Good;High;1;;No;27;High School;Single;2;Entry;Medium;0;No;No;No;Excellent;Left
+31826;49;Male;9;Healthcare;8340;Good;High;1;;No;1;High School;Married;0;Entry;Large;0;No;No;No;Fair;Low;Left
+64500;37;Male;22;Finance;10693;Fair;High;1;;No;1;BachelorM;Married;1;Mid;Medium;0;No;No;No;Good;Left
+19559;27;Male;10;Media;6400;Good;Average;0;;No;1;BachelorM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+62882;27;Male;17;Media;5678;Fair;High;2;;No;2;BachelorM;Married;2;Mid;Medium;0;No;No;No;Good;Left
+7424;58;Male;34;Technology;8693;Fair;High;0;;No;1;BachelorM;Divorced;0;Senior;Large;0;Yes;Yes;No;Good;Stayed
+5424;46;Female;1;Education;6022;Poor;High;0;;Yes;1;Associate C;Married;2;Entry;Medium;0;Yes;No;No;Good;Left
+3688;44;Female;24;Technology;9827;Poor;High;0;;No;1;MasterM;Divorced;0;Entry;Medium;0;No;No;No;Fair;Stayed
+3625;38;Male;18;Education;5249;Good;High;1;;No;1;MasterM;Divorced;2;Mid;Medium;0;Yes;No;No;Good;Stayed
+69511;43;Male;13;Media;1035;Fair;Low;1;;Yes;1;BachelorM;Single;1;Entry;Small;0;No;No;No;Fair;Stayed
+46550;43;Male;18;Technology;791;Good;High;0;;No;1;High School;Married;10;Entry;Medium;0;No;No;No;Poor;Stayed
+60485;30;Male;10;Media;5397;Excellent;Low;1;;Yes;0;BachelorM;Married;0;Entry;Large;0;No;No;No;Poor;Left
+31919;37;Male;19;Healthcare;8155;Good;High;0;;No;1;PhD;Single;0;Entry;Medium;0;No;No;No;Good;Stayed
+14319;37;Male;19;Healthcare;8155;Good;High;0;;No;1;Associate C;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+65739;58;Female;40;Media;6940;Good;High;0;;No;1;Associate C;Married;1;Senior;Large;0;Yes;No;No;Poor;Stayed
+43193;21;Female;10;Education;4793;Fair;High;0;;No;1;PhD;Married;4;Entry;Large;0;Yes;No;No;High;Stayed
+34857;47;Female;36;Healthcare;8462;Good;High;1;;Yes;1;BachelorM;Married;1;Entry;Medium;0;Yes;No;No;Poor;Left
+72101;40;Male;2;Technology;6601;Fair;Medium;0;;No;1;Associate C;Divorced;4;Senior;Large;0;No;No;No;Excellent;Left
+46992;31;Female;8;Technology;7207;Excellent;Medium;2;;Yes;1;BachelorM;Single;0;Entry;Small;0;Yes;Yes;No;Excellent;Left
+27451;34;Male;33;Healthcare;519;Fair;Medium;0;;Yes;1;High School;Single;2;Entry;Large;0;No;No;No;Fair;Left
+23371;49;Male;22;Finance;12041;Excellent;High;1;;No;1;PhD;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+41179;31;Female;1;Finance;658;Fair;Low;1;;No;1;MasterM;Single;4;Entry;Small;0;No;No;No;Good;Left
+17009;51;Male;41;Healthcare;758;Excellent;High;2;;No;1;MasterM;Divorced;3;Mid;Small;0;No;No;No;Good;Stayed
+19008;43;Male;11;Education;4061;Good;High;0;;No;1;MasterM;Single;0;Entry;Medium;0;Yes;No;No;Good;Stayed
+19252;47;Female;11;Technology;9197;Good;High;1;;Yes;1;High School;Married;10;Senior;Large;0;No;No;No;Good;Stayed
+67257;53;Female;23;Healthcare;8876;Fair;Low;2;;Yes;3;High School;Married;3;Entry;Medium;0;No;No;No;Fair;Stayed
+29643;32;Female;11;Technology;6444;Good;Medium;0;;No;1;High School;Single;1;Entry;Small;0;No;No;No;Poor;Stayed
+23691;25;Male;3;Healthcare;7406;Good;Low;3;;No;1;Associate C;Married;0;Entry;Medium;0;Yes;Yes;No;Poor;Left
+28854;37;Female;7;Media;8097;Good;High;0;;No;1;Associate C;Married;0;Senior;Small;0;Yes;No;No;Excellent;Stayed
+68361;41;Female;11;Education;4451;Good;High;0;;No;1;Associate C;Married;2;Senior;Medium;0;No;No;No;Excellent;Left
+32705;46;Female;6;Technology;10298;Fair;High;0;;No;1;BachelorM;Single;0;Entry;Medium;0;No;No;No;Poor;Left
+73703;36;Male;24;Technology;8973;Excellent;Very High;1;;No;1;MasterM;Divorced;1;Entry;Large;0;No;No;No;Excellent;Left
+74975;17;Female;23;Healthcare;5983;Excellent;Very High;1;;Yes;1;MasterM;Divorced;3;Entry;Small;0;No;No;No;Good;Stayed
+34465;40;Female;22;Education;4022;Excellent;Very High;0;;Yes;1;MasterM;Married;4;Entry;Medium;0;No;No;No;Good;Left
+2110;41;Male;11;Finance;8357;Poor;High;0;;No;1;MasterM;Single;4;Entry;Medium;0;No;No;No;High;Stayed
+2059;45;Female;17;Finance;8357;Poor;High;0;;No;1;MasterM;Single;4;Entry;Small;0;No;No;No;High;Stayed
+4509;9;Education;6934;Fair;High;1;;No;1;Associate C;Married;1;Mid;Medium;0;No;No;No;Good;Stayed
+71441;56;Male;32;Healthcare;6690;Excellent;Medium;1;;No;1;High School;Married;10;Entry;Small;0;No;No;No;Fair;Stayed
+63893;33;Male;11;Healthcare;7088;Good;Medium;0;;No;1;Associate C;Married;0;Entry;Medium;0;No;No;No;Fair;Left
+29623;55;Male;40;Technology;917;Fair;Low;0;;No;1;Associate C;Single;0;Mid;Large;0;No;No;No;Good;Left
+38110;27;Male;28;Media;1035;Fair;High;2;;No;1;BachelorM;Single;0;Mid;Medium;0;No;No;No;Good;Left
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+20221;26;Female;4;Technology;7823;Good;High;1;;No;10;High School;Married;0;Senior;Small;0;No;No;No;Good;Stayed
+28368;21;Male;8;Healthcare;10200;Good;Average;2;;No;1;High School;Married;10;Senior;Small;0;No;No;No;Fair;Stayed
+49581;30;Female;4;Technology;964;Fair;Low;2;;No;1;Associate C;Divorced;1;Entry;Large;0;No;No;No;Good;Stayed
+49959;24;Male;23;Education;1093;Fair;High;1;;Yes;75;High School;Married;0;Entry;Small;0;No;No;No;Good;Left
+72401;41;Male;39;Finance;9453;Good;Very High;1;;No;1;BachelorM;Married;0;Senior;Small;0;No;No;No;Fair;Stayed
+34465;40;Female;22;Education;4022;Excellent;Very High;0;;Yes;1;MasterM;Married;4;Entry;Medium;0;No;No;No;Good;Left
+65026;36;Male;7;Education;5050;Good;High;1;;No;27;High School;Single;2;Entry;Medium;0;No;No;No;Excellent;Left
+19252;47;Female;11;Technology;9197;Good;High;1;;Yes;1;High School;Married;10;Senior;Large;0;No;No;No;Good;Stayed
+59586;30;Female;19;Technology;10381;Excellent;High;1;;No;1;Associate C;Married;1;Entry;Medium;0;No;No;No;Poor;Stayed
+3770;54;Male;2;Healthcare;876;Good;Very High;0;;Yes;1;High School;Married;10;Entry;Small;0;No;No;No;Good;Left
+14996;47;Female;2;Technology;6359;Fair;Very High;1;;No;9;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Left
+25774;54;Male;39;Healthcare;908;Fair;High;0;;No;1;MasterM;Married;1;Mid;Small;0;No;No;No;Poor;Left
+3708;44;Female;12;Education;6977;Excellent;High;1;;No;1;Associate C;Single;3;Mid;Small;0;No;No;No;Excellent;Stayed
+63519;39;Female;16;Healthcare;9027;Fair;High;0;;Yes;1;BachelorM;Single;0;Mid;Small;0;Yes;No;No;Good;Stayed
+58084;39;Female;1;Finance;8079;Excellent;High;1;;No;1;MasterM;Single;0;Entry;Medium;0;No;No;No;Good;Left
+63113;45;Female;20;Healthcare;9003;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Small;0;No;No;No;Good;Left
+43193;21;Female;10;Healthcare;7987;Fair;Average;0;;No;1;MasterM;Single;1;Entry;Large;0;Yes;No;No;High;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+31826;49;Male;9;Healthcare;8340;Good;High;1;;No;1;High School;Married;0;Entry;Large;0;No;No;No;Fair;Low;Left
+27409;38;Female;29;Finance;9319;Good;High;0;;No;1;MasterM;Divorced;0;Entry;Small;0;No;No;No;Good;Stayed
+4320;43;Male;11;Education;102;Fair;High;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+5984;29;Female;26;Finance;1175;Fair;High;0;;No;1;Associate C;Divorced;3;Entry;Medium;0;No;No;No;Good;Left
+55188;20;Male;2;Media;6453;Excellent;Average;2;;No;1;Associate C;Married;1;Entry;Medium;0;No;No;No;Good;Left
+24208;34;Male;13;Media;5874;Fair;High;0;;No;1;High School;Single;1;Mid;Medium;0;No;No;No;Good;Left
+34857;47;Female;36;Healthcare;8462;Good;High;1;;Yes;1;BachelorM;Married;1;Entry;Medium;0;Yes;No;No;Poor;Left
+23689;30;Female;3;Technology;1096;Fair;High;0;;No;1;Associate C;Married;2;Entry;Medium;0;No;No;No;Good;Left
+11485;48;Male;1;Education;7233;Good;Medium;0;;Yes;1;BachelorM;Married;0;Senior;Medium;0;No;No;No;Fair;Stayed
+29229;28;Male;18;Education;7233;Good;Medium;0;;Yes;1;High School;Married;10;Entry;Medium;0;No;No;No;Poor;Left
+26101;18;Male;17;Technology;8300;Good;Average;2;;Yes;1;Associate C;Single;0;Entry;Medium;0;Yes;Yes;No;Good;Stayed
+19944;41;Male;11;Education;810;Good;High;1;;No;1;BachelorM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+23684;30;Male;3;Technology;1096;Fair;High;0;;No;1;Associate C;Married;2;Entry;Medium;0;No;No;No;Good;Left
+36866;41;Female;11;Education;8723;Good;High;0;;No;1;BachelorM;Married;0;Entry;Small;0;No;No;No;Good;Left
+13011;47;Male;13;Media;953;Good;Very High;1;;No;1;High School;Married;0;Senior;Small;0;No;No;No;Good;Stayed
+3422;38;Male;2;Finance;7708;Poor;High;0;;Yes;1;High School;Married;0;Entry;Medium;0;Yes;Yes;No;Good;Stayed
+1347;39;Male;1;Technology;9791;Excellent;Very High;0;;No;1;PhD;Married;0;Senior;Small;0;No;No;No;Good;Left
+69988;22;Female;6;Finance;7293;Poor;High;0;;No;1;BachelorM;Married;4;Entry;Medium;0;Yes;No;No;Good;Stayed
+19546;51;Male;11;Education;3625;Good;Low;2;;No;1;BachelorM;Single;2;Senior;Small;0;No;No;No;Excellent;Left
+13577;51;Female;17;Healthcare;6807;Excellent;High;0;;Yes;1;BachelorM;Divorced;2;Entry;Small;68;Yes;No;No;Good;Stayed
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+53028;46;Male;26;Education;4199;Good;High;2;;Yes;1;MasterM;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+36878;50;Male;16;Media;1155;Good;Low;2;;No;1;BachelorM;Single;2;Mid;Medium;0;No;No;No;Excellent;Stayed
+43193;21;Female;10;Healthcare;7987;Fair;Average;0;;No;1;MasterM;Single;1;Entry;Large;0;Yes;No;No;High;Stayed
+34857;47;Female;36;Healthcare;8462;Good;High;1;;Yes;1;BachelorM;Married;1;Entry;Medium;0;Yes;No;No;Poor;Left
+19528;3;Media;5891;Good;Low;1;;No;1;BachelorM;Single;2;Mid;Medium;0;No;No;No;Good;Left
+20864;22;Female;36;Technology;8609;Good;High;1;;Yes;1;Associate C;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+59159;23;Male;13;Media;6502;Good;High;1;;Yes;1;BachelorM;Divorced;2;Entry;Medium;0;Yes;No;No;Poor;Left
+20960;47;Female;9;Healthcare;6407;Good;High;0;;Yes;1;Associate C;Married;1;Mid;Medium;0;No;No;No;Good;Stayed
+4904;43;Male;18;Education;7962;Fair;Average;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+56396;50;Male;20;Education;777;Poor;High;0;;No;1;MasterM;Married;1;Entry;Small;0;No;No;No;Good;Stayed
+408;55;Female;2;Healthcare;7460;Good;High;0;;Yes;1;High School;Married;10;Entry;Medium;0;Yes;No;No;Good;Stayed
+53024;48;Female;11;Education;6302;Poor;High;0;;No;1;Associate C;Married;0;Senior;Small;0;No;No;No;Good;Left
+63519;39;Female;16;Healthcare;9027;Fair;High;0;;Yes;1;BachelorM;Single;0;Mid;Small;0;Yes;No;No;Good;Stayed
+58588;26;Female;5;Finance;7306;Good;High;0;;No;1;BachelorM;Single;3;Mid;Small;0;Yes;No;No;Good;Stayed
+52620;58;Male;26;Technology;7376;Poor;High;0;;No;1;High School;Single;3;Entry;Large;0;No;No;No;Fair;Stayed
+6200;54;Male;42;Finance;10006;Good;High;0;;No;1;MasterM;Married;1;Senior;Small;0;Yes;No;No;Good;Stayed
+11200;45;Female;6;Technology;1143;Good;High;0;;No;1;BachelorM;Married;4;Entry;Small;0;No;No;No;Good;Stayed
+59134;44;Female;18;Technology;1035;Fair;High;2;;No;1;MasterM;Married;3;Mid;Medium;0;No;No;No;Good;Left
+45849;51;Male;32;Education;4111;Excellent;High;1;;Yes;1;MasterM;Married;3;Entry;Small;0;No;No;No;Fair;Stayed
+4304;43;Male;11;Education;7962;Fair;Average;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+28620;27;Male;2;Education;6365;Fair;High;1;;Yes;1;High School;Married;10;Mid;Small;0;No;No;No;Good;Stayed
+29497;48;Female;39;Finance;10264;Good;High;0;;No;1;PhD;Single;2;Mid;Small;0;No;No;No;Good;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+43193;21;Female;10;Healthcare;7987;Fair;Average;0;;No;1;MasterM;Single;1;Entry;Large;0;Yes;No;No;High;Stayed
+59134;44;Female;18;Technology;1035;Fair;High;2;;No;1;MasterM;Married;3;Mid;Medium;0;No;No;No;Good;Left
+62136;41;Male;2;Media;6238;Fair;High;0;;No;1;BachelorM;Married;3;Entry;Small;0;No;No;No;Good;Left
+4904;43;Male;18;Education;7962;Fair;Average;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+48390;38;Male;1;Technology;1165;Excellent;High;1;;No;1;BachelorM;Married;4;Entry;Medium;0;No;No;No;Good;Left
+50040;38;Female;16;Technology;8988;Good;High;1;;No;1;High School;Married;10;Entry;Small;0;No;No;No;Poor;Stayed
+43890;38;Male;1;Technology;1165;Excellent;High;1;;No;1;High School;Married;10;Entry;Small;0;No;No;No;Good;Left
+59432;58;Female;19;Technology;7633;Very High;Average;0;;No;1;MasterM;Divorced;2;Mid;Medium;0;Yes;Yes;No;Poor;Stayed
+59888;23;Female;23;Technology;7633;Very High;Average;0;;No;1;MasterM;Divorced;2;Mid;Small;0;Yes;Yes;No;Poor;Stayed
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+59134;44;Female;18;Technology;1035;Fair;High;2;;No;1;MasterM;Married;3;Mid;Medium;0;No;No;No;Good;Left
+1884;3;Education;2386;Poor;Medium;1;;Yes;1;BachelorM;Married;0;Mid;Small;0;Yes;No;No;Good;Left
+3744;2;Technology;10220;Good;High;1;;No;1;Associate C;Single;1;Entry;Medium;0;No;No;No;Good;Stayed
+13298;44;Male;19;Media;6139;Fair;High;2;;No;1;MasterM;Divorced;0;Entry;Medium;0;No;No;No;Good;Left
+62811;44;Male;11;Education;4021;Good;High;2;;No;1;BachelorM;Single;1;Entry;Medium;0;No;No;No;Fair;Left
+23689;30;Female;3;Technology;1096;Fair;High;0;;No;1;Associate C;Married;2;Entry;Medium;0;No;No;No;Good;Left
+59888;23;Female;23;Technology;7633;Very High;Average;0;;No;1;MasterM;Divorced;2;Mid;Small;0;Yes;Yes;No;Poor;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+2631;59;Male;16;Healthcare;8381;Good;High;1;;No;1;MasterM;Single;0;Mid;Large;0;No;No;No;Good;Stayed
+3744;2;Technology;10220;Good;High;1;;No;1;Associate C;Single;1;Entry;Medium;0;No;No;No;Good;Stayed
+63053;50;Male;31;Technology;11504;Good;Medium;0;;No;1;High School;Married;10;Entry;Medium;0;No;No;No;Poor;Stayed
+49673;24;Male;44;Healthcare;8330;Excellent;High;0;;Yes;1;Associate C;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+50731;28;Male;1;Finance;10531;Good;High;1;;No;19;High School;Married;1;Mid;Small;0;No;No;No;Good;Stayed
+32240;50;Male;6;Healthcare;8537;Poor;High;0;;No;1;Associate C;Married;0;Mid;Small;0;No;No;No;Excellent;Left
+17737;28;Male;3;Technology;9561;Good;Medium;2;;No;69;High School;Married;0;Entry;Medium;0;No;No;No;Fair;Stayed
+33349;47;Male;19;Technology;917;Good;High;1;;No;1;PhD;Divorced;3;Senior;Medium;0;No;No;No;Fair;Stayed
+12148;33;Male;16;Technology;917;Good;High;1;;No;1;PhD;Divorced;3;Senior;Medium;0;No;No;No;Fair;Stayed
+12148;33;Male;16;Technology;917;Good;High;1;;No;1;PhD;Divorced;3;Senior;Medium;0;No;No;No;Fair;Stayed
+67205;33;Male;26;Healthcare;7340;Fair;High;1;;No;1;MasterM;Married;4;Entry;Small;0;No;No;No;Excellent;Left
+32705;46;Female;6;Technology;10298;Fair;High;0;;No;1;BachelorM;Single;0;Entry;Medium;0;No;No;No;Poor;Left
+39970;55;Male;20;Education;12891;Fair;High;2;;No;1;MasterM;Married;2;Mid;Small;0;No;No;No;Fair;Stayed
+11200;45;Female;6;Technology;1143;Good;High;0;;No;1;BachelorM;Married;4;Entry;Small;0;No;No;No;Good;Stayed
+76059;30;Male;15;Finance;758;Excellent;High;2;;No;1;High School;Married;0;Mid;Medium;0;No;No;No;Fair;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+56207;49;Female;41;Technology;8549;Fair;High;0;;No;1;Associate C;Divorced;0;Senior;Medium;0;No;No;No;Poor;Left
+46506;23;Male;2;Technology;809;Fair;High;1;;No;23;High School;Divorced;1;Senior;Medium;0;No;No;No;Good;Stayed
+27742;28;Male;13;Technology;6707;Excellent;High;0;;No;1;BachelorM;Single;3;Senior;Small;0;No;No;No;Excellent;Left
+44327;22;Female;2;Healthcare;8184;Excellent;High;1;;No;1;BachelorM;Single;6;Entry;Medium;0;No;No;No;Good;Left
+30500;22;Female;28;Media;852;Good;High;0;;No;1;Associate C;Married;0;Mid;Small;0;No;No;No;Excellent;Stayed
+73703;36;Male;24;Technology;8973;Excellent;Very High;1;;No;1;MasterM;Divorced;1;Entry;Large;0;No;No;No;Good;Left
+38070;20;Female;8;Finance;873;Low;Low;1;;No;1;High School;Married;4;Mid;Small;0;No;No;No;Good;Stayed
+19334;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+69913;38;Male;20;Finance;9970;Good;High;1;;Yes;3;High School;Married;0;Mid;Small;0;Yes;Yes;No;Good;Stayed
+39130;20;Male;6;Healthcare;5970;Good;Average;0;;No;1;Associate C;Married;1;Entry;Large;0;No;No;No;Good;Left
+23154;42;Female;6;Healthcare;7741;Excellent;High;0;;No;1;MasterM;Divorced;3;Entry;Medium;0;No;No;No;Good;Stayed
+73725;48;Female;40;Technology;953;Poor;High;1;;No;1;PhD;Single;0;Senior;Small;0;No;No;No;Good;Left
+17806;25;Female;15;Education;4793;Very High;Medium;0;;No;1;Associate C;Single;4;Entry;Large;0;No;No;No;Good;Stayed
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+57096;26;Male;17;Media;6523;Good;High;2;;Yes;28;BachelorM;Single;0;Entry;Small;23;Yes;No;No;Good;Left
+41895;41;Male;15;Technology;6875;Good;High;0;;Yes;1;BachelorM;Married;3;Mid;Medium;0;Yes;Yes;No;Poor;Stayed
+49173;25;Female;17;Finance;8127;Good;High;0;;Yes;1;Associate C;Single;1;Mid;Small;0;Yes;Yes;No;Good;Left
+23154;42;Female;6;Healthcare;7741;Excellent;High;0;;No;1;MasterM;Divorced;3;Entry;Medium;0;No;No;No;Good;Stayed
+17806;25;Female;15;Education;4793;Very High;Medium;0;;No;1;Associate C;Single;4;Entry;Large;0;No;No;No;Good;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+30500;22;Female;28;Media;852;Good;High;0;;No;1;Associate C;Married;0;Mid;Small;0;No;No;No;Excellent;Stayed
+49353;27;Male;12;Healthcare;8482;Fair;Very High;0;;Yes;1;MasterM;Married;1;Entry;Medium;0;No;No;No;Good;Left
+29898;31;Female;22;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+66017;25;Female;1;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+29653;39;Male;13;Healthcare;8979;Good;High;0;;No;1;MasterM;Divorced;0;Entry;Small;0;No;No;No;Good;Stayed
+17730;28;Male;3;Technology;9561;Good;Medium;2;;Yes;69;High School;Married;0;Entry;Medium;0;No;No;No;Fair;Stayed
+73666;35;Female;1;Healthcare;8979;Good;High;0;;No;1;MasterM;Divorced;0;Entry;Small;0;No;No;No;Good;Stayed
+19334;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+73666;35;Female;1;Healthcare;8979;Good;High;0;;No;1;MasterM;Divorced;0;Entry;Small;0;No;No;No;Good;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+14045;18;Male;10;Media;5843;Good;High;0;;No;1;Associate C;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+26139;18;Male;13;Education;395;Good;High;0;;No;1;PhD;Single;2;Mid;Medium;0;No;No;No;Good;Left
+4540;22;Female;4;Technology;1096;Fair;High;2;;No;1;PhD;Single;2;Mid;Medium;0;No;No;No;Good;Left
+26391;33;Female;17;Education;5945;Fair;High;2;;No;1;BachelorM;Single;2;Mid;Medium;0;No;No;No;Good;Stayed
+19944;41;Male;11;Education;810;Good;High;1;;No;1;BachelorM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+69251;43;Male;13;Technology;10994;Good;High;1;;No;1;PhD;Single;3;Entry;Medium;0;Yes;Yes;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+21195;19;Male;8;Media;6113;Good;High;0;;No;1;BachelorM;Married;0;Entry;Small;0;No;No;No;Excellent;Left
+30610;24;Male;11;Finance;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+68864;42;Male;34;Healthcare;8330;Excellent;High;0;;Yes;1;Associate C;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+33046;28;Male;11;Technology;10531;Good;Medium;0;;No;1;Associate C;Married;2;Mid;Small;0;No;No;No;Good;Left
+65026;36;Male;7;Education;5050;Good;High;1;;No;27;High School;Single;2;Entry;Medium;0;No;No;No;Excellent;Left
+37884;33;Male;1;Finance;7293;Good;High;0;;Yes;1;High School;Married;1;Entry;Medium;0;Yes;Yes;No;Good;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+46506;23;Male;2;Technology;809;Fair;High;1;;No;23;High School;Divorced;1;Senior;Medium;0;No;No;No;Good;Stayed
+70568;17;Male;25;Media;7133;Fair;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+64805;38;Female;4;Finance;831;Low;Low;2;;No;8;BachelorM;Single;4;Entry;Small;0;No;No;No;Good;Stayed
+53028;46;Male;26;Education;4199;Good;High;2;;Yes;1;MasterM;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+53028;46;Male;26;Education;4199;Good;High;2;;Yes;1;MasterM;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+19559;27;Male;10;Media;6400;Good;Average;0;;No;1;BachelorM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+67873;50;Male;39;Healthcare;7600;Good;High;0;;Yes;1;BachelorM;Single;0;Senior;Medium;0;No;No;No;Excellent;Stayed
+28854;37;Female;7;Media;8097;Good;High;0;;No;1;Associate C;Married;0;Senior;Small;0;Yes;No;No;Excellent;Stayed
+73703;36;Male;24;Technology;8973;Excellent;Very High;1;;No;1;MasterM;Divorced;1;Entry;Large;0;No;No;No;Good;Left
+71441;56;Male;32;Healthcare;6690;Excellent;Medium;1;;No;1;High School;Married;10;Entry;Small;0;No;No;No;Fair;Stayed
+53455;32;Female;41;Education;7104;Excellent;Low;2;;No;1;High School;Married;2;Mid;Small;0;No;No;No;Fair;Left
+2110;41;Male;11;Finance;8357;Poor;High;0;;No;1;MasterM;Single;4;Entry;Medium;0;No;No;No;High;Stayed
+51855;33;Female;3;Education;383;Excellent;High;1;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Left
+38350;41;Female;24;Healthcare;7944;Poor;Medium;0;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+28843;41;Female;23;Education;692;Poor;High;0;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+71372;44;Female;5;Finance;10183;Good;High;0;;No;1;Associate C;Married;2;Entry;Medium;7;No;No;No;Good;Left
+21565;22;Male;1;Healthcare;8756;Poor;High;1;;Yes;1;BachelorM;Single;4;Entry;Medium;0;Yes;No;No;Good;Stayed
+518;44;Female;9;Technology;7293;Good;Very High;0;;No;1;PhD;Married;1;Mid;Medium;0;No;No;No;Good;Left
+38941;36;Female;34;Technology;8077;Excellent;High;0;;Yes;1;MasterM;Married;1;Entry;Small;0;Yes;No;No;Good;Stayed
+24247;27;Male;14;Media;6238;Fair;High;0;;No;1;Associate C;Divorced;0;Mid;Small;0;No;No;No;Good;Left
+70945;27;Female;22;Education;4137;Good;Very High;1;;Yes;1;High School;Married;3;Entry;Small;0;No;No;No;Good;Stayed
+17211;2;Education;6021;Excellent;High;1;;No;1;High School;Married;1;Entry;Medium;0;No;No;No;Good;Stayed
+16333;53;Male;1;Finance;5795;Good;High;0;;No;1;Associate C;Married;6;Senior;Small;0;No;No;No;Good;Stayed
+17812;19;Male;34;Education;5993;Good;High;1;;No;1;Associate C;Married;0;Senior;Small;0;No;No;No;Fair;Stayed
+17211;2;Education;6021;Excellent;High;1;;No;1;High School;Married;1;Entry;Medium;0;No;No;No;Good;Stayed
+30398;48;Male;11;Education;7293;Good;Very High;0;;No;1;PhD;Married;1;Mid;Medium;0;No;No;No;Good;Left
+37164;47;Male;1;Technology;629;Good;High;1;;No;1;MasterM;Single;0;Mid;Medium;0;No;No;No;Good;Stayed
+33010;26;Female;16;Finance;660;Good;High;2;;No;1;Associate C;Married;2;Mid;Small;0;No;No;No;Good;Left
+29643;32;Female;11;Technology;6444;Good;Medium;0;;No;1;High School;Single;1;Entry;Small;0;No;No;No;Poor;Stayed
+28098;31;Male;22;Healthcare;800;Fair;Medium;1;;No;30;Associate C;Divorced;2;Mid;Small;0;No;No;No;Good;Stayed
+2874;44;Female;36;Technology;7140;Poor;Very High;0;;No;1;BachelorM;Married;73;Entry;Small;0;No;No;No;Good;Stayed
+59893;23;Female;9;Media;6151;Good;High;2;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+20221;26;Female;4;Technology;7823;Good;High;1;;No;10;High School;Married;0;Senior;Small;0;No;No;No;Good;Stayed
+35125;48;Male;10;Education;7089;Fair;Medium;0;;No;10;MasterM;Married;38;Mid;Small;0;No;No;No;Good;Stayed
+57096;26;Male;17;Media;6523;Good;High;2;;Yes;28;BachelorM;Single;0;Entry;Small;23;Yes;No;No;Good;Left
+54104;28;Male;3;Finance;8673;Excellent;High;0;;No;1;Associate C;Single;1;Entry;Large;0;No;No;No;Good;Left
+32803;54;Female;41;Healthcare;7192;Fair;High;1;;No;1;High School;Married;0;Mid;Medium;0;No;No;No;Good;Stayed
+25430;41;Male;1;Technology;9605;Good;High;0;;No;1;High School;Married;69;Mid;Medium;0;No;No;No;Good;Left
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+22048;44;Female;27;Education;8209;Fair;High;2;;No;1;MasterM;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+23028;46;Female;1;Healthcare;6400;Good;High;0;;No;1;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+59515;46;Male;15;Education;9209;Fair;High;0;;No;1;PhD;Divorced;1;Mid;Small;0;No;No;No;Excellent;Stayed
+25446;39;Male;11;Education;5802;Good;High;0;;Yes;1;MasterM;Married;1;Entry;Small;0;Yes;No;No;Good;Stayed
+19944;41;Male;11;Education;810;Good;High;1;;No;1;BachelorM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+29186;24;Female;1;Healthcare;7298;Poor;Average;2;;No;1;High School;Married;11;Mid;Small;0;No;No;No;Good;Left
+34465;40;Female;22;Education;8002;Good;High;0;;No;1;MasterM;Married;4;Entry;Medium;0;No;No;No;Good;Left
+3778;31;Male;1;Technology;870;Good;High;1;;No;1;High School;Married;0;Entry;Small;0;No;No;No;Fair;Stayed
+40241;31;Female;6;Finance;926;Good;High;0;;Yes;1;BachelorM;Married;98;Entry;Small;0;No;No;No;Fair;Stayed
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+40241;31;Female;6;Finance;926;Good;High;0;;Yes;1;BachelorM;Married;98;Entry;Small;0;No;No;No;Fair;Stayed
+44300;30;Male;4;Technology;876;Good;Average;1;;No;94;Associate C;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+63805;44;Male;13;Technology;928;Good;High;1;;No;1;MasterM;Married;54;Entry;Small;0;No;No;No;Good;Stayed
+44804;30;Male;4;Technology;876;Good;Average;1;;No;94;Associate C;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+64805;44;Male;13;Technology;928;Good;High;1;;No;1;MasterM;Married;54;Entry;Small;0;No;No;No;Good;Stayed
+38979;48;Female;18;Media;8762;Fair;High;0;;Yes;1;BachelorM;Divorced;4;Entry;Medium;0;No;No;No;Good;Left
+45188;48;Female;19;Technology;8762;Fair;High;0;;Yes;1;BachelorM;Divorced;4;Entry;Medium;0;No;No;No;Good;Left
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+42681;42;Female;11;Media;5800;Excellent;High;2;;Yes;1;MasterM;Married;65;Entry;Medium;0;Yes;Yes;No;Good;Stayed
+11656;42;Male;1;Technology;8462;Fair;High;1;;Yes;1;Associate C;Married;0;Entry;Small;0;Yes;No;No;Good;Left
+66082;28;Female;3;Technology;940;Good;High;1;;No;1;Associate C;Divorced;69;Entry;Medium;0;No;No;No;Good;Stayed
+66082;28;Female;3;Technology;940;Good;High;1;;No;1;Associate C;Divorced;69;Entry;Medium;0;No;No;No;Good;Stayed
+39396;46;Female;34;Education;4626;Good;High;0;;No;1;MasterM;Married;82;Entry;Medium;0;No;No;No;Good;Stayed
+29653;39;Male;13;Healthcare;8979;Good;High;0;;No;1;MasterM;Divorced;0;Entry;Small;0;No;No;No;Good;Stayed
+34722;50;Male;10;Finance;835;Good;High;0;;Yes;1;Associate C;Divorced;5;Mid;Small;0;Yes;Yes;No;Good;Stayed
+59720;31;Male;10;Finance;743;Fair;High;0;;No;1;Associate C;Married;2;Mid;Medium;0;No;No;No;Good;Left
+67096;19;Female;7;Education;4102;Good;High;0;;No;1;BachelorM;Married;82;Entry;Small;0;No;No;No;Good;Left
+9831;27;Male;3;Healthcare;9000;Good;High;0;;No;1;BachelorM;Single;1;Senior;Small;0;No;No;No;Good;Stayed
+5107;47;Male;19;Technology;7057;Poor;High;0;;No;1;MasterM;Divorced;29;Mid;Medium;0;No;No;No;Good;Left
+46229;44;Female;18;Technology;10238;Poor;High;0;;Yes;1;MasterM;Divorced;44;Mid;Medium;0;No;No;No;Good;Stayed
+37299;50;Female;7;Education;10500;Good;High;0;;No;1;BachelorM;Single;12;Entry;Small;0;No;No;No;Good;Stayed
+50376;45;Female;33;Technology;6460;Excellent;Low;0;;Yes;1;BachelorM;Single;4;Entry;Medium;0;No;No;No;Poor;Stayed
+4304;43;Male;11;Education;7962;Fair;Average;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+43974;43;Male;19;Technology;7343;Good;High;0;;No;1;High School;Married;70;Mid;Small;0;No;No;No;Good;Left
+43610;35;Female;19;Technology;7343;Good;High;0;;No;1;High School;Married;20;Mid;Small;0;No;No;No;Good;Left
+33010;26;Female;16;Finance;660;Good;High;2;;No;1;Associate C;Married;2;Mid;Small;0;No;No;No;Good;Left
+24520;50;Female;12;Education;6260;Good;High;1;;Yes;1;BachelorM;Single;49;Mid;Small;0;No;No;No;Good;Left
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+68364;41;Female;11;Education;4451;Good;High;0;;No;1;Associate C;Married;2;Senior;Medium;0;No;No;No;Excellent;Left
+68887;24;Female;7;Media;6906;Excellent;High;1;;No;1;BachelorM;Married;83;Mid;Small;0;Yes;No;No;Good;Stayed
+29898;31;Female;22;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+70242;47;Male;24;Technology;8848;Good;High;2;;Yes;1;High School;Single;38;Entry;Small;0;No;No;No;Good;Left
+67096;19;Female;7;Education;4102;Good;High;0;;No;1;BachelorM;Married;82;Entry;Small;0;No;No;No;Good;Left
+5438;42;Male;32;Technology;9373;Good;High;1;;No;1;PhD;Single;1;Mid;Small;0;No;No;No;Fair;Stayed
+54104;28;Male;3;Finance;8673;Excellent;High;0;;No;1;Associate C;Single;1;Entry;Large;0;No;No;No;Good;Left
+24520;50;Female;12;Education;6260;Good;High;1;;Yes;1;BachelorM;Single;49;Mid;Small;0;No;No;No;Good;Left
+57096;26;Male;17;Media;6523;Good;High;2;;Yes;28;BachelorM;Single;0;Entry;Small;23;Yes;No;No;Good;Left
+445;37;Male;18;Education;8077;Excellent;High;0;;No;1;BachelorM;Single;21;Entry;Small;0;No;No;No;Good;Stayed
+37679;51;Female;11;Healthcare;7340;Excellent;High;0;;No;1;MasterM;Married;4;Entry;Medium;0;No;No;No;Good;Stayed
+28826;35;Female;5;Technology;7993;Excellent;Very High;1;;No;1;BachelorM;Divorced;44;Mid;Small;0;No;No;No;Good;Left
+28826;35;Female;5;Technology;7993;Excellent;Very High;1;;No;1;BachelorM;Divorced;44;Mid;Small;0;No;No;No;Good;Left
+5438;42;Male;32;Technology;9373;Good;High;1;;No;1;PhD;Single;1;Mid;Small;0;No;No;No;Fair;Stayed
+37902;32;Male;22;Technology;102;Fair;High;2;;No;1;MasterM;Married;50;Associate C;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+54104;28;Male;3;Finance;8673;Excellent;High;0;;No;1;Associate C;Single;1;Entry;Large;0;No;No;No;Good;Left
+20;52;Male;42;Technology;874;Good;High;4;;No;1;MasterM;Divorced;88;Entry;Medium;0;No;No;No;Good;Stayed
+17438;52;Male;42;Technology;874;Good;High;4;;No;1;MasterM;Divorced;88;Entry;Medium;0;No;No;No;Good;Stayed
+59658;24;Male;3;Education;1065;Excellent;High;0;;No;1;Associate C;Divorced;99;Entry;Medium;0;No;No;No;Good;Left
+54104;28;Male;3;Finance;8673;Excellent;High;0;;No;1;Associate C;Single;1;Entry;Large;0;No;No;No;Good;Left
+52567;57;Male;28;Media;6811;Fair;High;0;;No;1;BachelorM;Married;3;Entry;Medium;0;No;No;No;Good;Stayed
+52567;57;Male;28;Media;6811;Fair;High;0;;No;1;BachelorM;Married;3;Entry;Medium;0;No;No;No;Good;Stayed
+4540;22;Female;4;Technology;1096;Fair;High;2;;No;1;PhD;Single;2;Mid;Medium;0;No;No;No;Good;Left
+73165;41;Male;11;Education;7293;Good;Very High;0;;No;1;PhD;Married;1;Mid;Medium;0;No;No;No;Good;Left
+12259;31;Male;11;Media;518;Good;Low;2;;No;2;BachelorM;Single;2;Senior;Small;0;No;No;No;Excellent;Left
+1975;34;Female;2;Finance;920;Fair;Low;1;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+72280;54;Male;2;Finance;719;Fair;High;1;;No;1;Associate C;Married;26;Entry;Medium;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+4304;43;Male;11;Education;7962;Fair;Average;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+11874;27;Female;1;Education;383;Excellent;High;1;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Left
+47635;35;Female;3;Technology;10531;Good;High;1;;No;1;BachelorM;Married;13;Entry;Medium;0;No;No;No;Good;Stayed
+24520;50;Female;12;Education;6260;Good;High;1;;Yes;1;BachelorM;Single;49;Mid;Small;0;No;No;No;Good;Left
+43974;43;Male;19;Technology;7343;Good;High;0;;No;1;High School;Married;70;Mid;Small;0;No;No;No;Good;Left
+34857;47;Female;36;Technology;8462;Fair;High;1;;Yes;1;BachelorM;Married;1;Entry;Medium;0;Yes;No;No;Poor;Left
+46506;23;Male;2;Technology;809;Fair;High;1;;No;23;High School;Divorced;1;Senior;Medium;0;No;No;No;Good;Stayed
+44870;49;Male;39;Technology;7154;Fair;High;1;;Yes;81;BachelorM;Divorced;98;Entry;Small;0;Yes;No;No;Poor;Stayed
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+58084;39;Female;1;Finance;8079;Excellent;High;1;;No;1;MasterM;Single;0;Entry;Medium;0;No;No;No;Good;Left
+42750;42;Female;29;Finance;1050;Good;High;0;;Yes;1;BachelorM;Single;26;Entry;Small;0;Yes;Yes;No;Good;Stayed
+58435;42;Female;39;Healthcare;1050;Good;High;0;;Yes;1;MasterM;Divorced;89;Entry;Small;0;No;No;No;Good;Left
+31826;49;Male;9;Healthcare;8340;Good;High;1;;No;1;High School;Married;0;Entry;Large;0;No;No;No;Fair;Low;Left
+61008;38;Male;11;Education;6302;Poor;High;0;;No;1;MasterM;Married;0;Senior;Small;0;No;No;No;Good;Left
+29773;33;Male;7;Technology;10114;Fair;High;0;;No;1;PhD;Divorced;1;Mid;Medium;0;No;No;No;Good;Stayed
+29910;23;Female;1;Media;6612;Fair;Low;0;;No;1;Associate C;Married;38;Senior;Small;0;No;No;No;Good;Left
+49862;23;Female;10;Healthcare;680;Good;High;0;;No;1;Associate C;Married;51;Senior;Small;0;No;No;No;Good;Left
+46795;52;Female;17;Finance;719;Fair;High;1;;No;1;MasterM;Married;27;Entry;Medium;0;No;No;No;Fair;Stayed
+32775;59;Male;19;Education;3623;Good;High;0;;No;1;MasterM;Divorced;48;Senior;Small;0;No;No;No;Good;Stayed
+5069;37;Male;29;Education;413;Poor;High;0;;Yes;1;BachelorM;Married;27;Senior;Small;0;No;No;No;Good;Stayed
+17812;19;Male;34;Education;5993;Good;High;1;;No;1;Associate C;Married;0;Senior;Small;0;No;No;No;Fair;Stayed
+40596;34;Male;13;Technology;905;Fair;High;1;;No;1;MasterM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+50906;34;Male;13;Technology;905;Fair;High;1;;No;1;MasterM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+24350;56;Male;22;Media;6665;Excellent;High;2;;No;1;BachelorM;Divorced;2;Mid;Medium;0;No;No;No;Good;Stayed
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+16494;44;Female;24;Healthcare;9833;Poor;High;1;;Yes;57;PhD;Single;0;Entry;Large;0;No;No;No;Good;Left
+27239;28;Female;20;Healthcare;5964;Excellent;High;2;;Yes;1;Associate C;Married;0;Entry;Small;0;No;No;No;Good;Left
+18398;37;Male;11;Education;1012;Fair;High;0;;No;0;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+27715;18;Male;9;Education;5671;Good;Very High;0;;No;1;BachelorM;Single;28;Mid;Small;0;No;No;No;Excellent;Stayed
+18856;28;Male;22;Healthcare;809;Fair;High;1;;No;1;BachelorM;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+2759;24;Female;8;Education;6427;Excellent;High;2;;No;1;Associate C;Married;1;Mid;Small;85;No;No;No;Good;Left
+73000;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+29898;31;Female;22;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+56460;28;Male;29;Finance;8075;Good;High;2;;No;1;BachelorM;Single;3;Mid;Small;0;No;No;No;Good;Left
+26130;18;Male;13;Education;395;Good;High;0;;No;1;PhD;Single;2;Mid;Medium;0;No;No;No;Good;Left
+20291;19;Female;6;Healthcare;7571;Poor;Low;0;;No;1;BachelorM;Married;15;Mid;Small;0;No;No;No;Good;Left
+36253;21;Female;12;Media;700;Good;High;2;;No;1;Associate C;Married;0;Mid;Medium;0;No;No;No;Good;Left
+62811;44;Male;11;Education;4021;Good;High;2;;No;1;BachelorM;Single;1;Entry;Medium;0;No;No;No;Fair;Left
+23689;30;Female;3;Technology;1096;Fair;High;0;;No;1;Associate C;Married;2;Entry;Medium;0;No;No;No;Good;Left
+63025;22;Male;7;Education;5714;Good;High;0;;No;1;High School;Married;80;Mid;Small;0;Yes;No;No;Fair;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+19442;29;Female;21;Education;5940;Good;High;1;;No;1;High School;Married;52;Associate C;Single;1;Entry;Medium;12;No;No;No;Excellent;Stayed
+50480;21;Male;3;Technology;8722;Excellent;High;0;;No;1;Associate C;Married;61;Entry;Medium;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+18946;21;Male;6;Education;3797;Good;High;0;;No;1;Associate C;Single;44;Entry;Small;0;No;No;No;Good;Stayed
+22360;21;Male;15;Education;5061;Good;High;2;;No;1;High School;Married;76;Entry;Medium;0;No;No;No;Good;Stayed
+49330;18;Male;7;Education;493;Excellent;High;1;;Yes;1;BachelorM;Single;6;Mid;Small;0;No;No;No;Fair;Left
+1975;34;Female;2;Finance;920;Fair;Low;1;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+69176;24;Male;19;Technology;8040;Excellent;High;2;;Yes;1;MasterM;Married;94;Entry;Small;0;Yes;No;No;Good;Stayed
+69176;24;Male;19;Technology;8040;Excellent;High;2;;Yes;1;MasterM;Married;94;Entry;Small;0;Yes;No;No;Good;Stayed
+4208;55;Male;24;Healthcare;6665;Excellent;High;2;;No;1;BachelorM;Divorced;2;Mid;Medium;0;No;No;No;Good;Stayed
+15693;56;Male;24;Healthcare;6665;Excellent;High;2;;No;1;BachelorM;Divorced;2;Mid;Medium;0;No;No;No;Good;Stayed
+22828;16;Female;12;Media;5573;Good;High;0;;No;1;High School;Single;4;Entry;Small;0;No;No;No;Poor;Stayed
+30189;4;Technology;1055;Good;High;2;;No;1;MasterM;Married;17;Entry;Small;0;No;No;No;Good;Stayed
+49330;18;Male;7;Education;493;Excellent;High;1;;Yes;1;BachelorM;Single;6;Mid;Small;0;No;No;No;Fair;Left
+2759;24;Female;8;Education;6427;Excellent;High;2;;No;1;Associate C;Married;1;Mid;Small;85;No;No;No;Good;Left
+57755;27;Female;8;Technology;10570;Good;High;1;;No;1;Associate C;Married;0;Senior;Small;11;No;No;No;Good;Stayed
+73000;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+28854;37;Female;7;Media;8097;Good;High;0;;No;1;Associate C;Married;0;Senior;Small;0;Yes;No;No;Excellent;Stayed
+58929;31;Female;8;Healthcare;822;Good;High;0;;Yes;1;PhD;Married;6;Entry;Medium;0;No;No;No;Good;Stayed
+2422;4;Finance;3403;Good;High;1;;No;1;MasterM;Single;97;Entry;Small;0;No;No;No;Good;Left
+81959;56;Male;40;Healthcare;878;Good;High;0;;Yes;1;MasterM;Married;3;Mid;Large;81;No;No;No;Good;Stayed
+64781;40;Male;11;Education;6798;Fair;High;0;;No;1;Associate C;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+49862;23;Female;10;Healthcare;680;Good;High;0;;No;1;Associate C;Married;51;Senior;Small;0;No;No;No;Good;Left
+14744;46;Female;1;Healthcare;8521;Good;High;0;;Yes;1;Associate C;Married;95;Entry;Small;0;Yes;No;No;Good;Stayed
+41600;23;Female;9;Education;3166;Good;High;0;;No;1;High School;Married;1;Entry;Medium;77;No;No;No;Good;Left
+51144;45;Male;24;Healthcare;9157;Fair;High;0;;No;1;MasterM;Married;26;Entry;Medium;0;No;No;No;Good;Stayed
+50820;48;Female;23;Education;4300;Good;High;0;;No;1;BachelorM;Married;98;Entry;Small;25;No;No;No;Fair;Stayed
+17211;2;Education;6021;Excellent;High;1;;No;1;High School;Married;1;Entry;Medium;0;No;No;No;Good;Stayed
+25317;19;Female;1;Healthcare;583;Good;High;0;;No;1;MasterM;Married;67;Entry;Small;0;No;No;No;Good;Left
+53375;19;Female;2;Media;8655;Excellent;Very High;0;;No;1;MasterM;Single;1;Entry;Medium;17;No;No;No;Good;Stayed
+26139;18;Male;13;Education;395;Good;High;0;;No;1;PhD;Single;2;Mid;Medium;0;No;No;No;Good;Left
+62080;45;Male;5;Technology;11573;Poor;High;0;;No;1;Associate C;Married;24;Mid;Medium;0;No;No;No;Excellent;Left
+21570;41;Male;5;Technology;11573;Poor;High;0;;No;1;Associate C;Married;24;Mid;Medium;0;No;No;No;Excellent;Left
+65026;36;Male;7;Education;5050;Good;High;1;;No;27;High School;Single;2;Entry;Medium;0;No;No;No;Excellent;Left
+50820;48;Female;23;Education;4300;Good;High;0;;No;1;BachelorM;Married;98;Entry;Small;74;No;No;No;Fair;Stayed
+7714;29;Female;15;Technology;5165;Good;Average;0;;Yes;1;MasterM;Married;0;Mid;Small;0;No;No;No;Fair;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+29363;43;Male;15;Technology;928;Good;High;1;;No;1;MasterM;Married;77;Entry;Small;0;No;No;No;Good;Stayed
+41481;34;Male;13;Technology;928;Good;High;1;;No;1;MasterM;Married;77;Entry;Small;0;No;No;No;Good;Stayed
+29363;43;Male;15;Technology;928;Good;High;1;;No;1;MasterM;Married;77;Entry;Small;0;No;No;No;Good;Stayed
+54104;28;Male;3;Finance;8673;Excellent;High;0;;No;1;Associate C;Single;1;Entry;Large;0;No;No;No;Good;Left
+41481;34;Male;13;Technology;928;Good;High;1;;No;1;MasterM;Married;77;Entry;Small;0;No;No;No;Good;Stayed
+10709;45;Female;7;Education;3403;Good;High;0;;No;1;Associate C;Married;62;Entry;Small;0;No;No;No;Good;Stayed
+64805;38;Female;4;Finance;831;Low;Low;2;;No;8;BachelorM;Single;4;Entry;Small;0;No;No;No;Good;Stayed
+64805;38;Female;4;Finance;831;Low;Low;2;;No;8;BachelorM;Single;4;Entry;Small;0;No;No;No;Good;Stayed
+49694;39;Male;2;Healthcare;7704;Excellent;High;3;;No;1;BachelorM;Married;62;Entry;Small;0;No;No;No;Good;Left
+14045;18;Male;10;Media;5843;Good;High;0;;No;1;Associate C;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+3688;44;Female;24;Technology;9827;Poor;High;0;;No;1;MasterM;Divorced;0;Entry;Medium;0;No;No;No;Fair;Stayed
+3688;44;Female;24;Technology;9827;Poor;High;0;;No;1;MasterM;Divorced;0;Entry;Medium;0;No;No;No;Fair;Stayed
+24172;18;Male;2;Healthcare;8564;Fair;High;0;;No;1;BachelorM;Single;12;Entry;Medium;0;No;No;No;Good;Left
+28980;34;Male;6;Healthcare;8884;Excellent;High;0;;No;1;Associate C;Single;74;Entry;Small;21;No;No;No;Excellent;Stayed
+62811;44;Male;11;Education;4021;Good;High;2;;No;1;BachelorM;Single;1;Entry;Medium;0;No;No;No;Fair;Left
+23689;30;Female;3;Technology;1096;Fair;High;0;;No;1;Associate C;Married;2;Entry;Medium;0;No;No;No;Good;Left
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+45111;52;Female;34;Technology;6670;Fair;High;1;;No;1;Associate C;Single;50;Associate C;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+46506;23;Male;2;Technology;809;Fair;High;1;;No;23;High School;Divorced;1;Senior;Medium;0;No;No;No;Good;Stayed
+18;46;Female;29;Media;8990;Excellent;High;1;;Yes;1;High School;Married;98;Mid;Small;0;Yes;No;No;Good;Left
+27466;19;Male;5;Technology;8990;Excellent;High;1;;Yes;1;High School;Married;98;Mid;Small;102;No;No;No;Good;Left
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+72989;46;Female;1;Healthcare;7561;Good;High;0;;Yes;1;BachelorM;Single;63;Entry;Small;0;No;No;No;Good;Left
+1084;42;Male;39;Media;5953;Good;Low;1;;No;1;MasterM;Single;15;Mid;Medium;0;No;No;No;Poor;Stayed
+42564;29;Female;19;Technology;10;Good;High;0;;No;1;MasterM;Married;78;Entry;Small;0;No;No;No;Good;Stayed
+19559;27;Male;10;Media;6400;Good;Average;0;;No;1;BachelorM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+14844;23;Female;16;Technology;610;Good;High;1;;No;1;High School;Married;1;Entry;Medium;0;No;No;No;Good;Stayed
+8976;27;Female;7;Media;7503;Good;High;0;;Yes;1;Associate C;Married;11;Mid;Small;0;Yes;Yes;No;Good;Left
+14776;24;Male;10;Education;5615;Good;High;2;;No;1;High School;Married;20;Mid;Small;0;No;No;No;Poor;Stayed
+14724;24;Male;10;Education;5615;Good;High;2;;No;1;High School;Married;20;Mid;Small;0;No;No;No;Poor;Stayed
+14045;18;Male;10;Media;5843;Good;High;0;;No;1;Associate C;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+19559;27;Male;10;Media;6400;Good;Average;0;;No;1;BachelorM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+12049;36;Female;16;Finance;7608;Fair;High;3;;Yes;1;BachelorM;Married;43;Entry;Small;79;No;No;No;Good;Stayed
+38350;41;Female;24;Healthcare;7944;Poor;Medium;0;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+15077;56;Male;24;Healthcare;6665;Excellent;High;2;;No;1;BachelorM;Divorced;2;Mid;Medium;0;No;No;No;Good;Stayed
+15556;44;Male;34;Technology;8492;Fair;High;0;;Yes;1;BachelorM;Married;86;Entry;Small;87;No;No;No;Poor;Left
+73787;35;Female;25;Technology;10200;Good;High;2;;No;1;Associate C;Married;59;Mid;Medium;0;Yes;No;No;Good;Stayed
+73811;35;Female;25;Technology;10200;Good;High;2;;No;1;Associate C;Married;59;Mid;Medium;0;Yes;No;No;Good;Stayed
+58872;38;Female;13;Healthcare;8730;Fair;High;0;;No;1;Associate C;Married;72;Entry;Small;0;No;No;No;Good;Stayed
+53410;18;Male;30;Healthcare;6777;Good;High;0;;Yes;1;High School;Married;71;MasterM;Married;1;Entry;Medium;45;No;No;No;Good;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+29040;44;Female;11;Education;9056;Poor;High;1;;No;1;MasterM;Married;62;Entry;Small;0;No;No;No;Good;Stayed
+59440;21;Male;4;Education;6410;Good;High;0;;No;1;BachelorM;Married;63;Mid;Small;56;No;No;No;Good;Left
+72276;45;Female;17;Media;6168;Good;High;1;;No;1;Associate C;Single;59;Mid;Medium;95;No;No;No;Excellent;Left
+69226;34;Female;18;Technology;10061;Fair;High;1;;No;1;Associate C;Married;0;Mid;Medium;0;No;No;No;Excellent;Stayed
+33058;21;Male;11;Education;5357;Excellent;High;2;;No;1;BachelorM;Married;3;Mid;Medium;0;No;No;No;Good;Stayed
+463;27;Female;10;Education;5761;Excellent;High;1;;Yes;1;BachelorM;Married;42;Entry;Large;18;No;No;No;Good;Left
+83;27;Female;4;Media;5662;Poor;High;0;;Yes;1;Associate C;Married;4;Senior;Small;0;No;No;No;Good;Left
+20221;26;Female;4;Technology;7823;Good;High;1;;No;10;High School;Married;0;Senior;Small;0;No;No;No;Good;Stayed
+33648;21;Female;31;Finance;6250;Good;High;1;;Yes;1;MasterM;Single;0;Mid;Small;34;No;No;No;Fair;Left
+29898;31;Female;22;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+30500;22;Female;28;Media;852;Good;High;0;;No;1;Associate C;Married;0;Mid;Small;0;No;No;No;Excellent;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+45869;26;Female;14;Education;920;Fair;Average;2;;No;1;PhD;Married;75;Entry;Medium;60;No;No;No;Good;Stayed
+29898;31;Female;22;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+20822;36;Female;29;Education;4272;Excellent;High;2;;Yes;1;BachelorM;Married;33;Mid;Small;114;No;No;No;Good;Left
+30610;24;Male;11;Finance;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+29533;36;Female;13;Technology;8790;Good;Very High;1;;Yes;1;BachelorM;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+30500;22;Female;28;Media;852;Good;High;0;;No;1;Associate C;Married;0;Mid;Small;0;No;No;No;Excellent;Stayed
+14969;34;Male;2;Healthcare;7704;Excellent;High;3;;No;1;Associate C;Married;20;Associate C;Married;38;Mid;Small;77;No;No;No;Good;Left
+14045;18;Male;10;Media;5843;Good;High;0;;No;1;Associate C;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+47515;43;Male;32;Healthcare;9363;Excellent;High;1;;Yes;1;BachelorM;Married;88;Mid;Medium;0;Yes;Yes;No;Good;Stayed
+54772;41;Male;33;Technology;6743;Good;High;0;;No;1;Associate C;Single;1;Mid;Small;0;No;No;No;Good;Left
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+57096;26;Male;17;Media;6523;Good;High;2;;Yes;28;BachelorM;Single;0;Entry;Small;23;Yes;No;No;Good;Left
+30828;53;Male;33;Finance;6780;Excellent;High;1;;No;1;MasterM;Married;86;Entry;Small;79;No;No;No;Good;Stayed
+30828;53;Male;33;Finance;6780;Excellent;High;1;;No;1;MasterM;Married;86;Entry;Small;79;No;No;No;Good;Stayed
+13475;23;Male;3;Technology;8753;Good;High;1;;No;1;BachelorM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+20402;30;Female;14;Education;495;Good;High;0;;Yes;1;High School;Married;45;Mid;Small;82;No;No;No;Good;Stayed
+37679;51;Female;11;Healthcare;7340;Excellent;High;0;;No;1;MasterM;Married;4;Entry;Medium;0;No;No;No;Good;Stayed
+65026;36;Male;7;Education;5050;Good;High;1;;No;27;High School;Single;2;Entry;Medium;0;No;No;No;Excellent;Left
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+56433;51;Female;16;Technology;9951;Good;High;0;;No;1;BachelorM;Single;0;Mid;Small;47;No;No;No;Fair;Stayed
+50650;33;Female;1;Finance;7840;Good;High;0;;Yes;1;MasterM;Married;13;Entry;Small;0;Yes;Yes;No;Poor;Left
+29533;36;Female;13;Technology;8790;Good;Very High;1;;Yes;1;BachelorM;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+10894;41;Male;1;Technology;1026;Good;High;1;;No;1;High School;Single;1;Entry;Small;0;No;No;No;Good;Stayed
+18054;28;Female;1;Education;3350;Excellent;High;0;;No;1;High School;Single;0;Entry;Large;20;No;No;No;Good;Left
+37964;22;Female;10;Technology;9773;Excellent;High;1;;No;1;Associate C;Married;33;Entry;Medium;62;No;No;No;Good;Stayed
+29898;31;Female;22;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+43193;21;Female;10;Healthcare;7987;Fair;Average;0;;No;1;MasterM;Single;1;Entry;Large;0;Yes;No;No;High;Stayed
+67223;47;Female;11;Education;4021;Good;High;2;;No;1;BachelorM;Married;60;Associate C;Married;2;Entry;Medium;0;No;No;No;Good;Left
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+48753;48;Male;2;Media;5963;Excellent;High;2;;Yes;1;BachelorM;Married;76;Entry;Small;15;No;No;No;Good;Stayed
+33010;26;Female;16;Finance;660;Good;High;2;;No;1;Associate C;Married;2;Mid;Small;0;No;No;No;Good;Left
+13475;23;Male;3;Technology;8753;Good;High;1;;No;1;BachelorM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+68576;45;Female;34;Finance;8330;Excellent;High;0;;Yes;1;Associate C;Married;4;Mid;Medium;91;Yes;No;No;Good;Stayed
+28854;37;Female;7;Media;8097;Good;High;0;;No;1;Associate C;Married;0;Senior;Small;0;Yes;No;No;Excellent;Stayed
+42750;42;Female;29;Finance;1050;Good;High;0;;Yes;1;BachelorM;Single;26;Entry;Small;0;Yes;Yes;No;Good;Left
+74973;17;Female;23;Media;5983;Excellent;Very High;1;;Yes;1;MasterM;Divorced;3;Entry;Small;0;No;No;No;Good;Stayed
+63852;36;Female;12;Technology;10531;Good;High;0;;No;1;MasterM;Married;21;Entry;Small;0;No;No;No;Good;Stayed
+74189;36;Male;12;Technology;10531;Good;High;0;;No;1;MasterM;Married;21;Entry;Small;0;No;No;No;Good;Stayed
+38350;41;Female;24;Healthcare;7944;Poor;Medium;0;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+61196;31;Male;10;Finance;9096;Poor;High;2;;Yes;1;BachelorM;Married;12;Entry;Small;0;No;No;No;Good;Stayed
+66741;23;Male;10;Education;808;Fair;High;3;;No;1;MasterM;Married;67;Entry;Small;58;No;No;No;Excellent;Stayed
+6184;26;Male;11;Education;8203;Fair;High;0;;No;1;Associate C;Married;3;Entry;Medium;57;No;No;No;Good;Stayed
+24035;52;Male;12;Healthcare;8017;Good;High;2;;Yes;1;MasterM;Married;20;Associate C;Married;3;Mid;Medium;93;No;No;No;Fair;Stayed
+31492;58;Female;36;Healthcare;8347;Excellent;High;2;;Yes;1;BachelorM;Married;94;Associate C;Married;0;Mid;Small;0;Yes;Yes;No;Fair;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+35084;25;Female;13;Education;383;Fair;High;1;;No;1;BachelorM;Single;29;Entry;Small;0;No;No;No;Poor;Left
+31187;25;Female;24;Healthcare;8549;Fair;High;1;;No;1;BachelorM;Married;0;Senior;Small;29;No;No;No;Fair;Stayed
+46229;44;Female;18;Technology;10238;Poor;High;0;;Yes;1;MasterM;Divorced;44;Mid;Medium;0;No;No;No;Good;Stayed
+68729;49;Male;24;Finance;9150;Good;High;0;;No;1;MasterM;Married;88;Entry;Small;0;No;No;No;Good;Stayed
+59908;22;Male;1;Technology;1004;Good;High;0;;No;1;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+4540;22;Female;4;Technology;1096;Fair;High;2;;No;1;PhD;Single;2;Mid;Medium;0;No;No;No;Good;Left
+38350;41;Female;24;Healthcare;7944;Poor;Medium;0;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+68353;27;Male;12;Healthcare;7825;Poor;Very High;0;;Yes;1;BachelorM;Married;8;Senior;Large;0;Yes;No;No;Poor;Left
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+19559;27;Male;10;Media;6400;Good;Average;0;;No;1;BachelorM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+9559;42;Male;26;Technology;8113;Good;Medium;1;;No;1;High School;Married;82;Mid;Small;0;No;No;No;Good;Stayed
+39933;36;Male;19;Technology;10452;Fair;High;1;;No;1;High School;Married;19;Mid;Small;0;No;No;No;Good;Stayed
+39933;36;Male;19;Technology;10452;Fair;High;1;;No;1;High School;Married;19;Mid;Small;0;No;No;No;Good;Stayed
+51951;25;Female;24;Education;495;Good;High;2;;No;1;Associate C;Divorced;53;Entry;Small;0;No;No;No;Good;Stayed
+50541;25;Female;24;Education;495;Good;High;2;;No;1;Associate C;Divorced;53;Entry;Small;0;No;No;No;Good;Stayed
+44230;18;Male;4;Technology;893;Fair;High;0;;No;1;BachelorM;Married;12;Entry;Medium;14;No;No;No;Good;Stayed
+35084;25;Female;13;Education;383;Fair;High;1;;No;1;BachelorM;Single;29;Entry;Small;0;No;No;No;Poor;Left
+19559;27;Male;10;Media;6400;Good;Average;0;;No;1;BachelorM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+44230;18;Male;4;Technology;893;Fair;High;0;;No;1;BachelorM;Married;12;Entry;Medium;14;No;No;No;Good;Stayed
+32797;18;Male;4;Technology;7377;Fair;High;0;;Yes;1;BachelorM;Single;66;Entry;Small;0;No;No;No;Good;Stayed
+19559;27;Male;10;Media;6400;Good;Average;0;;No;1;BachelorM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+39933;36;Male;19;Technology;10452;Fair;High;1;;No;1;High School;Married;19;Mid;Small;0;No;No;No;Good;Stayed
+71701;35;Female;24;Technology;7107;Good;Low;2;;No;1;BachelorM;Married;64;Entry;Small;0;No;No;No;Good;Stayed
+16681;27;Female;8;Education;6203;Fair;High;0;;No;1;Associate C;Married;4;Senior;Small;0;No;No;No;Fair;Stayed
+19944;41;Male;11;Education;810;Good;High;1;;No;1;BachelorM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+36811;44;Male;18;Education;10704;Fair;High;0;;No;1;MasterM;Married;80;MasterM;Single;1;Mid;Medium;0;No;No;No;Good;Left
+61973;49;Female;27;Education;10704;Fair;High;0;;Yes;1;Associate C;Married;1;Entry;Medium;47;No;No;No;Good;Stayed
+3708;44;Female;12;Education;6977;Excellent;High;1;;No;1;Associate C;Single;3;Mid;Small;0;No;No;No;Excellent;Stayed
+4304;43;Male;11;Education;7962;Fair;Average;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+9559;42;Male;26;Technology;8113;Good;Medium;1;;No;1;High School;Married;82;Mid;Small;0;No;No;No;Good;Stayed
+41271;45;Female;7;Healthcare;7053;Poor;Average;0;;No;1;MasterM;Married;1;Entry;Medium;0;No;No;No;Good;Stayed
+10310;38;Male;14;Education;1057;Good;High;1;;No;1;Associate C;Divorced;2;Entry;Medium;0;No;No;No;Good;Stayed
+17737;28;Male;3;Technology;9561;Good;Medium;2;;No;69;High School;Married;0;Entry;Medium;0;No;No;No;Fair;Stayed
+76520;39;Male;1;Healthcare;10274;Excellent;High;0;;No;1;BachelorM;Married;56;Mid;Small;111;No;No;No;Excellent;Left
+43974;43;Male;19;Technology;7343;Good;High;0;;No;1;High School;Married;70;Mid;Small;0;No;No;No;Good;Left
+12259;31;Male;11;Media;518;Good;Low;2;;No;2;BachelorM;Single;2;Senior;Small;0;No;No;No;Excellent;Left
+21565;22;Male;1;Healthcare;8756;Poor;High;1;;Yes;1;BachelorM;Single;4;Entry;Medium;0;Yes;No;No;Good;Stayed
+72936;21;Male;6;Technology;7700;Fair;High;0;;No;1;PhD;Single;1;Entry;Medium;69;No;No;No;Good;Stayed
+65026;36;Male;7;Education;5050;Good;High;1;;No;27;High School;Single;2;Entry;Medium;0;No;No;No;Excellent;Left
+29898;31;Female;22;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+68364;41;Female;11;Education;4451;Good;High;0;;No;1;Associate C;Married;2;Senior;Medium;0;No;No;No;Excellent;Left
+51951;25;Female;24;Education;495;Good;High;2;;No;1;Associate C;Divorced;53;Entry;Small;0;No;No;No;Good;Stayed
+66832;47;Male;29;Education;9746;Poor;High;0;;Yes;1;High School;Married;35;Associate C;Married;0;Mid;Small;100;No;No;No;Fair;Stayed
+50040;38;Female;16;Technology;8988;Good;High;1;;No;1;High School;Married;10;Entry;Small;0;No;No;No;Poor;Stayed
+67148;43;Female;41;Education;10001;Good;High;3;;No;1;High School;Married;70;Entry;Small;0;Yes;Yes;No;Poor;Stayed
+57096;26;Male;17;Media;6523;Good;High;2;;Yes;28;BachelorM;Single;0;Entry;Small;23;Yes;No;No;Good;Left
+17730;28;Male;3;Technology;9561;Good;Medium;2;;Yes;69;High School;Married;0;Entry;Medium;0;No;No;No;Fair;Stayed
+33390;50;Male;3;Technology;874;Good;Low;0;;Yes;1;BachelorM;Divorced;63;Entry;Small;0;No;No;No;Good;Stayed
+58170;38;Female;6;Education;383;Good;High;1;;No;1;PhD;Married;3;Mid;Small;0;No;No;No;Good;Left
+318;31;Male;21;Education;383;Good;High;1;;No;1;PhD;Married;3;Mid;Small;0;No;No;No;Good;Left
+71346;38;Female;24;Technology;8462;Good;High;0;;Yes;1;BachelorM;Married;91;BachelorM;Divorced;30;Mid;Small;0;No;No;No;Good;Left
+4203;26;Female;1;Education;4305;Fair;High;1;;Yes;1;Associate C;Married;55;High School;Married;1;Entry;Small;0;No;No;No;Good;Stayed
+60738;18;Male;27;Education;583;Good;High;0;;No;1;Associate C;Single;1;Mid;Small;0;No;No;No;Fair;Stayed
+13890;40;Female;19;Media;5992;Fair;High;0;;No;1;BachelorM;Divorced;4;Mid;Small;0;No;No;No;Good;Left
+20731;38;Female;24;Healthcare;8549;Fair;High;0;;No;1;Associate C;Single;57;Associate C;Married;0;Mid;Medium;0;No;No;No;Good;Stayed
+70881;30;Female;12;Technology;102;Fair;High;0;;Yes;1;BachelorM;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+32073;38;Female;11;Healthcare;9450;Good;High;1;;No;1;PhD;Single;0;Entry;Medium;0;No;No;No;Fair;Stayed
+33566;33;Female;5;Technology;8477;Good;High;2;;Yes;1;BachelorM;Single;6;Entry;Medium;0;Yes;Yes;No;Good;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+52211;48;Female;27;Technology;10693;Good;High;0;;No;1;Associate C;Divorced;0;Mid;Small;0;No;No;No;Good;Left
+58777;35;Female;2;Education;1057;Excellent;High;1;;No;1;BachelorM;Divorced;0;Mid;Medium;0;Yes;No;No;Fair;Stayed
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+72936;21;Male;6;Technology;7700;Fair;High;0;;No;1;PhD;Single;1;Entry;Medium;69;No;No;No;Good;Stayed
+68136;23;Male;28;Media;599;Good;High;2;;No;1;Associate C;Married;0;Mid;Small;0;No;No;No;Good;Left
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+19559;27;Male;10;Media;6400;Good;Average;0;;No;1;BachelorM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+17961;18;Male;2;Finance;1266;Fair;High;2;;No;1;BachelorM;Married;99;Mid;Small;0;No;No;No;Good;Stayed
+23028;46;Female;1;Healthcare;6400;Good;High;0;;No;1;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+20000;44;Female;27;Education;4793;Good;High;2;;Yes;1;Associate C;Married;75;Entry;Small;0;No;No;No;Good;Stayed
+25020;54;Male;38;Healthcare;7107;Good;Very High;0;;No;1;PhD;Married;39;Mid;Small;0;No;No;No;Good;Stayed
+29898;31;Female;22;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+46506;23;Male;2;Technology;809;Fair;High;1;;No;23;High School;Divorced;1;Senior;Medium;0;No;No;No;Good;Stayed
+63050;46;Male;20;Healthcare;9233;Good;High;0;;No;1;High School;Married;57;High School;Single;10;Entry;Small;0;No;No;No;Good;Left
+50040;38;Female;16;Technology;8988;Good;High;1;;No;1;High School;Married;10;Entry;Small;0;No;No;No;Poor;Stayed
+6200;54;Male;42;Finance;10006;Good;High;0;;No;1;MasterM;Married;1;Senior;Small;0;Yes;No;No;Good;Stayed
+4141;55;Female;33;Education;3759;Fair;High;1;;Yes;1;High School;Single;20;Mid;Small;0;No;No;No;Good;Stayed
+67096;19;Female;7;Education;4102;Good;High;0;;No;1;BachelorM;Married;82;Entry;Small;0;No;No;No;Good;Left
+17009;51;Male;41;Healthcare;8753;Good;High;2;;No;1;MasterM;Divorced;3;Mid;Small;0;No;No;No;Good;Stayed
+60086;47;Male;22;Finance;11552;Excellent;High;2;;Yes;1;Associate C;Married;56;Associate C;Married;0;Mid;Medium;0;No;No;No;Fair;Stayed
+67930;47;Male;36;Finance;8849;Fair;High;1;;No;1;BachelorM;Married;73;BachelorM;Married;0;Mid;Medium;0;No;No;No;Good;Stayed
+67096;19;Female;7;Education;4102;Good;High;0;;No;1;BachelorM;Married;82;Entry;Small;0;No;No;No;Good;Left
+59432;58;Female;19;Technology;7633;Very High;Average;0;;No;1;MasterM;Divorced;2;Mid;Medium;0;Yes;Yes;No;Poor;Stayed
+33881;44;Male;23;Media;6284;Fair;High;0;;Yes;1;Associate C;Single;69;Associate C;Single;3;Entry;Medium;0;No;No;No;Very High;Stayed
+4904;43;Male;18;Education;7962;Fair;Average;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+50040;38;Female;16;Technology;8988;Good;High;1;;No;1;High School;Married;10;Entry;Small;0;No;No;No;Poor;Stayed
+64805;38;Female;4;Finance;831;Low;Low;2;;No;8;BachelorM;Single;4;Entry;Small;0;No;No;No;Good;Stayed
+57227;33;Female;14;Technology;11742;Fair;High;1;;No;1;MasterM;Married;0;Mid;Small;0;No;No;No;Excellent;Left
+31919;37;Male;19;Healthcare;8155;Good;High;0;;No;1;PhD;Single;0;Entry;Medium;0;No;No;No;Good;Stayed
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+50335;50;Male;26;Education;495;Good;High;2;;No;1;Associate C;Divorced;53;Entry;Small;0;No;No;No;Good;Stayed
+62882;27;Male;17;Media;5678;Fair;High;2;;No;2;BachelorM;Married;2;Mid;Medium;0;No;No;No;Good;Left
+69911;27;Female;19;Finance;758;Excellent;High;2;;No;1;Associate C;Married;57;Associate C;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+36500;30;Female;10;Healthcare;678;Good;High;1;;No;1;MasterM;Divorced;0;Entry;Medium;0;No;No;No;Fair;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+33010;26;Female;16;Finance;660;Good;High;2;;No;1;Associate C;Married;2;Mid;Small;0;No;No;No;Good;Left
+68466;40;Female;8;Education;8077;Excellent;High;0;;No;1;MasterM;Married;1;Entry;Small;0;No;No;No;Good;Stayed
+4141;55;Female;33;Education;3759;Fair;High;1;;Yes;1;High School;Single;20;Mid;Small;0;No;No;No;Good;Stayed
+26592;43;Male;13;Healthcare;597;Good;High;1;;No;1;Associate C;Married;62;Entry;Small;0;No;No;No;Excellent;Left
+50040;38;Female;16;Technology;8988;Good;High;1;;No;1;High School;Married;10;Entry;Small;0;No;No;No;Poor;Stayed
+46958;24;Female;4;Technology;965;Fair;High;0;;Yes;1;BachelorM;Married;37;Entry;Medium;0;No;No;No;Fair;Stayed
+10064;48;Male;5;Education;5627;Good;High;0;;No;1;Associate C;Single;71;Associate C;Single;4;Senior;Small;0;No;No;No;Fair;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+23028;46;Female;1;Healthcare;6400;Good;High;0;;No;1;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+12313;37;Male;2;Media;6376;Excellent;High;0;;Yes;1;Associate C;Divorced;1;Entry;Small;0;Yes;Yes;No;Good;Stayed
+20864;22;Female;36;Technology;8609;Good;High;1;;Yes;1;Associate C;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+5374;32;Male;21;Education;4220;Good;High;0;;Yes;1;Associate C;Married;17;Entry;Small;0;No;No;No;Good;Left
+18121;45;Female;14;Healthcare;7081;Fair;High;0;;Yes;1;High School;Married;42;Entry;Medium;0;Yes;No;No;Good;Stayed
+4304;43;Male;11;Education;7962;Fair;Average;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+62080;45;Male;5;Technology;11573;Poor;High;0;;No;1;Associate C;Married;24;Mid;Medium;0;No;No;No;Excellent;Left
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+60396;34;Male;12;Education;699;Good;High;2;;No;1;MasterM;Married;84;Entry;Small;0;No;No;No;Good;Stayed
+14492;24;Male;25;Finance;7988;Good;Average;2;;No;1;High School;Married;3;Entry;Small;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+44804;30;Male;4;Technology;876;Good;Average;1;;No;94;Associate C;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+24142;26;Female;6;Technology;12275;Excellent;High;1;;No;1;MasterM;Married;43;Entry;Small;0;No;No;No;Good;Stayed
+73000;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+60199;33;Male;17;Healthcare;8996;Good;High;1;;No;1;Associate C;Single;40;Associate C;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+54600;21;Male;10;Education;603;Good;High;1;;No;1;BachelorM;Married;25;Entry;Small;0;No;No;No;Good;Left
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+53028;46;Male;26;Education;4199;Good;High;2;;Yes;1;MasterM;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+24771;54;Male;7;Education;8771;Excellent;High;1;;No;1;MasterM;Married;48;Entry;Small;0;No;No;No;Good;Stayed
+24771;54;Male;7;Education;8771;Excellent;High;1;;No;1;MasterM;Married;48;Entry;Small;0;No;No;No;Good;Stayed
+58639;39;Female;11;Education;7293;Good;Very High;0;;No;1;PhD;Married;1;Mid;Medium;0;No;No;No;Good;Left
+8604;39;Female;1;Finance;8530;Excellent;High;0;;Yes;1;PhD;Married;1;Mid;Medium;0;No;No;No;Good;Stayed
+3708;44;Female;12;Education;6977;Excellent;High;1;;No;1;Associate C;Single;3;Mid;Small;0;No;No;No;Excellent;Stayed
+67096;19;Female;7;Education;4102;Good;High;0;;No;1;BachelorM;Married;82;Entry;Small;0;No;No;No;Good;Left
+20864;22;Female;36;Technology;8609;Good;High;1;;Yes;1;Associate C;Married;4;Mid;Medium;0;No;No;No;Good;Stayed
+34211;48;Female;26;Education;5413;Fair;High;0;;Yes;1;Associate C;Married;4;Mid;Small;0;Yes;Yes;No;Good;Stayed
+41579;34;Female;8;Healthcare;7890;Good;High;0;;No;1;Associate C;Married;0;Senior;Small;0;No;No;No;Good;Stayed
+54104;28;Male;3;Finance;8673;Excellent;High;0;;No;1;Associate C;Single;1;Entry;Large;0;No;No;No;Good;Left
+22597;55;Male;27;Finance;8033;Good;High;0;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+59159;23;Male;13;Media;6502;Good;High;1;;Yes;1;BachelorM;Divorced;2;Entry;Medium;0;Yes;No;No;Poor;Left
+17737;28;Male;3;Technology;9561;Good;Medium;2;;No;69;High School;Married;0;Entry;Medium;0;No;No;No;Fair;Stayed
+50820;48;Female;23;Education;4300;Good;High;0;;No;1;BachelorM;Married;98;Entry;Small;74;No;No;No;Fair;Stayed
+12313;37;Male;2;Media;6376;Excellent;High;0;;Yes;1;Associate C;Divorced;1;Entry;Small;0;Yes;Yes;No;Good;Stayed
+14776;24;Male;10;Education;5615;Good;High;2;;No;1;High School;Married;20;Mid;Small;0;No;No;No;Poor;Stayed
+72989;46;Female;1;Healthcare;7561;Good;High;0;;Yes;1;BachelorM;Single;63;Entry;Small;0;No;No;No;Good;Left
+28643;28;Female;1;Education;8643;Excellent;Very High;2;;Yes;1;Associate C;Married;1;Entry;Small;0;Yes;No;No;Good;Left
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+25573;59;Male;22;Finance;6665;Excellent;High;2;;No;1;BachelorM;Divorced;2;Mid;Medium;0;No;No;No;Good;Stayed
+57096;26;Male;17;Media;6523;Good;High;2;;Yes;28;BachelorM;Single;0;Entry;Small;23;Yes;No;No;Good;Left
+14763;20;Male;12;Technology;9766;Poor;High;2;;No;1;MasterM;Married;97;Entry;Small;0;No;No;No;Good;Stayed
+70720;52;Male;28;Technology;9766;Poor;High;2;;No;1;MasterM;Married;97;Entry;Small;0;No;No;No;Good;Stayed
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+69911;27;Female;19;Finance;758;Excellent;High;2;;No;1;Associate C;Married;57;Associate C;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+44321;31;Female;2;Technology;940;Good;High;1;;No;1;Associate C;Married;67;Entry;Medium;0;No;No;No;Good;Stayed
+68096;41;Male;2;Technology;518;Good;High;2;;No;1;Associate C;Married;27;Entry;Small;0;No;No;No;Good;Left
+74096;48;Female;13;Media;5500;Good;High;0;;Yes;1;MasterM;Married;1;Entry;Medium;0;Yes;No;No;Poor;Stayed
+58929;31;Female;8;Healthcare;822;Good;High;0;;Yes;1;PhD;Married;6;Entry;Medium;0;No;No;No;Good;Stayed
+70664;32;Female;36;Technology;916;Fair;High;0;;No;1;BachelorM;Married;76;Entry;Small;0;No;No;No;Excellent;Stayed
+70664;32;Female;36;Technology;916;Fair;High;0;;No;1;BachelorM;Married;76;Entry;Small;0;No;No;No;Excellent;Stayed
+7964;39;Male;29;Education;3920;Good;High;0;;No;1;Associate C;Married;76;Entry;Small;0;No;No;No;Excellent;Stayed
+33157;29;Male;16;Healthcare;9086;Fair;Medium;0;;No;1;BachelorM;Married;81;High School;Married;0;Senior;Small;0;Yes;No;No;Good;Stayed
+70720;52;Male;28;Technology;9766;Poor;High;2;;No;1;MasterM;Married;97;Entry;Small;0;No;No;No;Good;Stayed
+27714;20;Female;6;Education;3403;Good;High;0;;No;1;MasterM;Married;76;Entry;Small;0;Yes;No;No;Good;Stayed
+27814;50;Male;6;Education;3403;Good;High;0;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+70720;52;Male;28;Technology;9766;Poor;High;2;;No;1;MasterM;Married;97;Entry;Small;0;No;No;No;Good;Stayed
+64805;38;Female;4;Finance;831;Low;Low;2;;No;8;BachelorM;Single;4;Entry;Small;0;No;No;No;Good;Stayed
+72969;22;Male;13;Media;6322;Good;High;0;;No;1;MasterM;Married;60;BachelorM;Married;0;Mid;Small;0;No;No;No;Good;Left
+20221;26;Female;4;Technology;7823;Good;High;1;;No;10;High School;Married;0;Senior;Small;0;No;No;No;Good;Stayed
+59432;58;Female;19;Technology;7633;Very High;Average;0;;No;1;MasterM;Divorced;2;Mid;Medium;0;Yes;Yes;No;Poor;Stayed
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+4320;43;Male;11;Education;102;Fair;High;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+36798;41;Male;2;Education;495;Excellent;Low;0;;No;1;BachelorM;Married;48;MasterM;Single;1;Senior;Small;0;No;No;No;Good;Stayed
+23028;46;Female;1;Healthcare;6400;Good;High;0;;No;1;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+23873;33;Female;19;Finance;5953;Good;High;1;;Yes;1;PhD;Married;76;Entry;Small;0;No;No;No;Fair;Stayed
+73000;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+3778;31;Male;1;Technology;870;Good;High;1;;No;1;High School;Married;0;Entry;Small;0;No;No;No;Fair;Stayed
+24208;34;Male;13;Media;5874;Fair;High;0;;No;1;High School;Single;1;Mid;Medium;0;No;No;No;Good;Left
+53942;39;Male;19;Technology;113;Good;High;1;;No;1;MasterM;Married;2;Entry;Medium;0;No;No;No;Good;Stayed
+53942;39;Male;19;Technology;113;Good;High;1;;No;1;MasterM;Married;2;Entry;Medium;0;No;No;No;Good;Stayed
+61725;18;Male;10;Education;5000;Fair;High;1;;No;1;BachelorM;Married;13;Mid;Medium;0;No;No;No;Very High;Left
+31919;37;Male;19;Healthcare;8155;Good;High;0;;No;1;PhD;Single;0;Entry;Medium;0;No;No;No;Good;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+52573;26;Female;13;Finance;7965;Good;Average;0;;No;1;High School;Married;82;Mid;Small;0;No;No;No;Good;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+63050;46;Male;20;Healthcare;9233;Good;High;0;;No;1;High School;Married;57;High School;Single;10;Entry;Small;0;No;No;No;Good;Left
+24640;25;Female;11;Education;6203;Fair;High;2;;No;1;MasterM;Divorced;21;Mid;Small;0;No;No;No;Good;Stayed
+61125;21;Male;15;Education;5639;Good;High;0;;No;1;MasterM;Married;1;Entry;Medium;0;No;No;No;Excellent;Left
+63805;44;Male;13;Technology;928;Good;High;1;;No;1;MasterM;Married;54;Entry;Small;0;No;No;No;Good;Stayed
+49218;39;Male;19;Technology;1043;Good;High;2;;No;1;MasterM;Married;48;MasterM;Single;1;Senior;Small;0;No;No;No;Good;Left
+32176;43;Male;9;Media;6081;Good;High;1;;Yes;1;BachelorM;Single;90;Mid;Medium;0;Yes;No;No;Good;Stayed
+28604;31;Female;2;Education;805;Low;Low;2;;No;1;BachelorM;Divorced;0;Entry;Small;0;No;No;No;Good;Stayed
+31919;37;Male;19;Healthcare;8155;Good;High;0;;No;1;PhD;Single;0;Entry;Medium;0;No;No;No;Good;Stayed
+58684;31;Male;8;Technology;12383;Good;High;2;;Yes;1;MasterM;Married;28;Entry;Small;0;Yes;No;No;Good;Stayed
+38350;41;Female;24;Healthcare;7944;Poor;Medium;0;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+31959;17;Male;1;Education;395;Good;High;0;;No;1;Associate C;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+39351;34;Male;17;Education;5920;Good;High;2;;Yes;1;Associate C;Married;8;Entry;Small;0;Yes;Yes;No;Poor;Stayed
+38407;36;Female;21;Education;5327;Fair;High;0;;No;1;Associate C;Divorced;2;Entry;Medium;0;No;No;No;Good;Stayed
+38350;41;Female;24;Healthcare;7944;Poor;Medium;0;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+31919;37;Male;19;Healthcare;8155;Good;High;0;;No;1;PhD;Single;0;Entry;Medium;0;No;No;No;Good;Stayed
+30308;54;Male;16;Healthcare;708;Fair;High;0;;No;1;Associate C;Married;83;Entry;Small;0;No;No;No;Good;Stayed
+31148;26;Female;11;Education;6710;Fair;High;0;;No;1;Associate C;Married;2;Mid;Small;0;No;No;No;Good;Stayed
+39542;41;Male;1;Technology;830;Good;High;1;;No;1;MasterM;Single;3;Entry;Small;0;No;No;No;Good;Stayed
+43939;46;Male;23;Healthcare;8455;Fair;High;0;;Yes;1;MasterM;Married;2;Entry;Medium;0;No;No;No;Good;Left
+24455;23;Male;10;Education;7701;Fair;High;1;;No;1;BachelorM;Single;55;Entry;Small;0;No;No;No;Fair;Stayed
+72197;44;Female;5;Education;5101;Good;High;0;;No;1;BachelorM;Divorced;26;Entry;Medium;0;No;No;No;Good;Left
+23028;46;Female;1;Healthcare;6400;Good;High;0;;No;1;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+70788;15;Female;3;Media;6;Good;High;1;;No;1;Associate C;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+31483;55;Female;13;Education;7974;Good;High;0;;Yes;1;High School;Married;78;Entry;Small;0;No;No;No;Good;Stayed
+61918;25;Male;19;Technology;7343;Good;High;0;;No;1;MasterM;Married;96;Associate C;Single;0;Entry;Small;0;No;No;No;Poor;Left
+19215;31;Male;7;Education;8591;Excellent;High;0;;No;1;High School;Married;13;Entry;Medium;0;No;No;No;Good;Stayed
+23028;46;Female;1;Healthcare;6400;Good;High;0;;No;1;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+51739;45;Male;7;Education;5137;Poor;High;2;;No;1;BachelorM;Single;2;Senior;Large;0;No;No;No;Poor;Stayed
+32322;35;Female;19;Healthcare;8105;Excellent;Very High;0;;Yes;1;MasterM;Divorced;47;MasterM;Married;1;Entry;Small;0;No;No;No;Good;Stayed
+43974;43;Male;19;Technology;7343;Good;High;0;;No;1;High School;Married;70;Mid;Small;0;No;No;No;Good;Left
+24446;47;Male;21;Education;3790;Excellent;High;0;;No;1;MasterM;Single;26;Entry;Small;0;No;No;No;Good;Stayed
+57056;24;Male;7;Education;395;Good;High;1;;No;1;Associate C;Married;1;Entry;Medium;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+445;37;Male;18;Education;8077;Excellent;High;0;;No;1;BachelorM;Single;21;Entry;Small;0;No;No;No;Good;Stayed
+50541;25;Female;24;Education;495;Good;High;2;;No;1;Associate C;Divorced;53;Entry;Small;0;No;No;No;Good;Stayed
+4203;26;Female;1;Education;4305;Fair;High;1;;Yes;1;Associate C;Married;55;High School;Married;1;Entry;Small;0;No;No;No;Good;Stayed
+55441;38;Female;11;Education;6514;Good;High;0;;No;1;BachelorM;Married;64;Entry;Small;0;No;No;No;Good;Stayed
+33746;25;Female;9;Finance;8209;Fair;High;1;;No;1;BachelorM;Married;21;Entry;Small;0;No;No;No;Good;Stayed
+19334;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+16941;23;Male;14;Healthcare;9383;Good;High;0;;No;1;MasterM;Married;93;MasterM;Single;1;Entry;Small;0;No;No;No;Good;Left
+313;30;Male;13;Media;5000;Fair;High;1;;No;1;BachelorM;Married;68;BachelorM;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+2616;19;Male;23;Technology;10087;Excellent;High;0;;Yes;1;MasterM;Married;58;MasterM;Divorced;0;Mid;Small;27;No;No;No;Good;Stayed
+39933;36;Male;19;Technology;10452;Fair;High;1;;No;1;High School;Married;19;Mid;Small;0;No;No;No;Good;Stayed
+58084;39;Female;1;Finance;8079;Excellent;High;1;;No;1;MasterM;Single;0;Entry;Medium;0;No;No;No;Good;Left
+24208;34;Male;13;Media;5874;Fair;High;0;;No;1;High School;Single;1;Mid;Medium;0;No;No;No;Good;Left
+33010;26;Female;16;Finance;660;Good;High;2;;No;1;Associate C;Married;2;Mid;Small;0;No;No;No;Good;Left
+25003;29;Female;4;Media;6203;Fair;High;0;;No;1;Associate C;Married;10;Entry;Medium;15;No;No;No;Good;Stayed
+17343;24;Male;10;Education;383;Fair;High;2;;No;1;MasterM;Married;0;Mid;Small;33;No;No;No;Good;Stayed
+37973;29;Male;7;Education;7503;Good;High;0;;Yes;1;Associate C;Married;11;Mid;Small;0;Yes;Yes;No;Poor;Stayed
+51951;25;Female;24;Education;495;Good;High;2;;No;1;Associate C;Divorced;53;Entry;Small;0;No;No;No;Good;Stayed
+51951;25;Female;24;Education;495;Good;High;2;;No;1;Associate C;Divorced;53;Entry;Small;0;No;No;No;Good;Stayed
+12075;53;Female;11;Healthcare;8987;Good;High;2;;Yes;1;Associate C;Married;4;Senior;Small;0;Yes;Yes;No;Poor;Stayed
+51951;25;Female;24;Education;495;Good;High;2;;No;1;Associate C;Divorced;53;Entry;Small;0;No;No;No;Good;Stayed
+13669;30;Female;13;Technology;7943;Good;High;1;;No;1;Associate C;Married;50;Associate C;Married;1;Entry;Medium;64;No;No;No;Good;Stayed
+53707;53;Male;13;Technology;7900;Good;High;0;;No;1;MasterM;Married;4;Entry;Medium;48;No;No;No;Good;Stayed
+39933;36;Male;19;Technology;10452;Fair;High;1;;No;1;High School;Married;19;Mid;Small;0;No;No;No;Good;Stayed
+39933;36;Male;19;Technology;10452;Fair;High;1;;No;1;High School;Married;19;Mid;Small;0;No;No;No;Good;Stayed
+53893;39;Male;13;Healthcare;8592;Good;High;0;;Yes;1;Associate C;Married;6;Entry;Medium;0;Yes;No;No;Excellent;Stayed
+49353;27;Male;12;Healthcare;8482;Fair;Very High;0;;Yes;1;MasterM;Married;1;Entry;Medium;0;No;No;No;Good;Left
+17177;46;Male;24;Finance;8077;Excellent;High;0;;No;1;BachelorM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+19884;45;Male;1;Finance;8077;Excellent;High;0;;No;1;BachelorM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+23028;46;Female;1;Healthcare;6400;Good;High;0;;No;1;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+53707;53;Male;13;Technology;7900;Good;High;0;;No;1;MasterM;Married;4;Entry;Medium;48;No;No;No;Good;Stayed
+68345;35;Male;43;Healthcare;9047;Good;High;0;;No;1;MasterM;Married;34;PhD;Married;0;Entry;Small;89;No;No;No;Excellent;Stayed
+53374;32;Male;21;Education;4220;Good;High;0;;Yes;1;Associate C;Married;17;Entry;Small;0;No;No;No;Good;Left
+29910;23;Female;1;Media;6612;Fair;Low;0;;No;1;Associate C;Married;38;Senior;Small;0;No;No;No;Good;Left
+49862;23;Female;10;Healthcare;680;Good;High;0;;No;1;Associate C;Married;51;Senior;Small;0;No;No;No;Good;Left
+46795;52;Female;17;Finance;719;Fair;High;1;;No;1;MasterM;Married;27;Entry;Medium;0;No;No;No;Fair;Stayed
+32775;59;Male;19;Education;3623;Good;High;0;;No;1;MasterM;Divorced;48;Senior;Small;0;No;No;No;Good;Stayed
+5069;37;Male;29;Education;413;Poor;High;0;;Yes;1;BachelorM;Married;27;Senior;Small;0;No;No;No;Good;Stayed
+17812;19;Male;34;Education;5993;Good;High;1;;No;1;Associate C;Married;0;Senior;Small;0;No;No;No;Fair;Stayed
+40596;34;Male;13;Technology;905;Fair;High;1;;No;1;MasterM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+50906;34;Male;13;Technology;905;Fair;High;1;;No;1;MasterM;Married;0;Entry;Small;0;No;No;No;Good;Stayed
+24350;56;Male;22;Media;6665;Excellent;High;2;;No;1;BachelorM;Divorced;2;Mid;Medium;0;No;No;No;Good;Stayed
+37598;51;Male;42;Media;2625;Good;High;2;;Yes;1;MasterM;Married;3;Mid;Medium;0;Yes;No;No;Poor;Stayed
+16494;44;Female;24;Healthcare;9833;Poor;High;1;;Yes;57;PhD;Single;0;Entry;Large;0;No;No;No;Good;Left
+27239;28;Female;20;Healthcare;5964;Excellent;High;2;;Yes;1;Associate C;Married;0;Entry;Small;0;No;No;No;Good;Left
+18398;37;Male;11;Education;1012;Fair;High;0;;No;0;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+27715;18;Male;9;Education;5671;Good;Very High;0;;No;1;BachelorM;Single;28;Mid;Small;0;No;No;No;Excellent;Stayed
+18856;28;Male;22;Healthcare;809;Fair;High;1;;No;1;BachelorM;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+2759;24;Female;8;Education;6427;Excellent;High;2;;No;1;Associate C;Married;1;Mid;Small;85;No;No;No;Good;Left
+73000;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+29898;31;Female;22;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+56460;28;Male;29;Finance;8075;Good;High;2;;No;1;BachelorM;Single;3;Mid;Small;0;No;No;No;Good;Left
+26130;18;Male;13;Education;395;Good;High;0;;No;1;PhD;Single;2;Mid;Medium;0;No;No;No;Good;Left
+20291;19;Female;6;Healthcare;7571;Poor;Low;0;;No;1;BachelorM;Married;15;Mid;Small;0;No;No;No;Good;Left
+36253;21;Female;12;Media;700;Good;High;2;;No;1;Associate C;Married;0;Mid;Medium;0;No;No;No;Good;Left
+62811;44;Male;11;Education;4021;Good;High;2;;No;1;BachelorM;Single;1;Entry;Medium;0;No;No;No;Fair;Left
+23689;30;Female;3;Technology;1096;Fair;High;0;;No;1;Associate C;Married;2;Entry;Medium;0;No;No;No;Good;Left
+63025;22;Male;7;Education;5714;Good;High;0;;No;1;High School;Married;80;Mid;Small;0;Yes;No;No;Fair;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+19442;29;Female;21;Education;5940;Good;High;1;;No;1;High School;Married;52;Associate C;Single;1;Entry;Medium;12;No;No;No;Excellent;Stayed
+50480;21;Male;3;Technology;8722;Excellent;High;0;;No;1;Associate C;Married;61;Entry;Medium;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+18946;21;Male;6;Education;3797;Good;High;0;;No;1;Associate C;Married;44;Entry;Small;0;No;No;No;Good;Stayed
+22360;21;Male;15;Education;5061;Good;High;2;;No;1;High School;Married;76;Entry;Medium;0;No;No;No;Good;Stayed
+49330;18;Male;7;Education;493;Excellent;High;1;;Yes;1;BachelorM;Single;6;Mid;Small;0;No;No;No;Fair;Left
+1975;34;Female;2;Finance;920;Fair;Low;1;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+69176;24;Male;19;Technology;8040;Excellent;High;2;;Yes;1;MasterM;Married;94;Entry;Small;0;Yes;No;No;Good;Stayed
+69176;24;Male;19;Technology;8040;Excellent;High;2;;Yes;1;MasterM;Married;94;Entry;Small;0;Yes;No;No;Good;Stayed
+4208;55;Male;24;Healthcare;6665;Excellent;High;2;;No;1;BachelorM;Divorced;2;Mid;Medium;0;No;No;No;Good;Stayed
+15693;56;Male;24;Healthcare;6665;Excellent;High;2;;No;1;BachelorM;Divorced;2;Mid;Medium;0;No;No;No;Good;Stayed
+22828;16;Female;12;Media;5573;Good;High;0;;No;1;High School;Single;4;Entry;Small;0;No;No;No;Poor;Stayed
+30189;4;Technology;1055;Good;High;2;;No;1;MasterM;Married;17;Entry;Small;0;No;No;No;Good;Stayed
+49330;18;Male;7;Education;493;Excellent;High;1;;Yes;1;BachelorM;Single;6;Mid;Small;0;No;No;No;Fair;Left
+2759;24;Female;8;Education;6427;Excellent;High;2;;No;1;Associate C;Married;1;Mid;Small;85;No;No;No;Good;Left
+57755;27;Female;8;Technology;10570;Good;High;1;;No;1;Associate C;Married;0;Senior;Small;11;No;No;No;Good;Stayed
+73000;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+28854;37;Female;7;Media;8097;Good;High;0;;No;1;Associate C;Married;0;Senior;Small;0;Yes;No;No;Excellent;Stayed
+58929;31;Female;8;Healthcare;822;Good;High;0;;Yes;1;PhD;Married;6;Entry;Medium;0;No;No;No;Good;Stayed
+2422;4;Finance;3403;Good;High;1;;No;1;MasterM;Single;97;Entry;Small;0;No;No;No;Good;Left
+81959;56;Male;40;Healthcare;878;Good;High;0;;Yes;1;MasterM;Married;3;Mid;Large;81;No;No;No;Good;Stayed
+64781;40;Male;11;Education;6798;Fair;High;0;;No;1;Associate C;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+49862;23;Female;10;Healthcare;680;Good;High;0;;No;1;Associate C;Married;51;Senior;Small;0;No;No;No;Good;Left
+14744;46;Female;1;Healthcare;8521;Good;High;0;;Yes;1;Associate C;Married;95;Entry;Small;0;Yes;No;No;Good;Stayed
+41600;23;Female;9;Education;3166;Good;High;0;;No;1;High School;Married;1;Entry;Medium;77;No;No;No;Good;Left
+28190;54;Male;14;Media;546;Excellent;Average;3;;No;1;MasterM;Married;21;Entry;Small;0;No;No;No;Fair;Left
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+23674;23;Female;9;Finance;11379;Poor;High;0;;No;1;PhD;Married;37;Entry;Small;0;No;No;No;Good;Left
+50820;48;Female;23;Education;4300;Good;High;0;;No;1;BachelorM;Married;98;Entry;Small;74;No;No;No;Fair;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+2759;24;Female;8;Education;6427;Excellent;High;2;;No;1;Associate C;Married;1;Mid;Small;85;No;No;No;Good;Left
+10732;27;Female;10;Technology;7278;Poor;High;0;;No;1;MasterM;Divorced;56;Associate C;Married;0;Mid;Small;94;No;No;No;Good;Stayed
+17211;2;Education;6021;Excellent;High;1;;No;1;High School;Married;1;Entry;Medium;0;No;No;No;Good;Stayed
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+5784;30;Female;10;Media;3907;Fair;High;0;;Yes;1;BachelorM;Married;63;Entry;Small;51;No;No;No;Good;Stayed
+5784;30;Female;10;Media;3907;Fair;High;0;;Yes;1;BachelorM;Married;63;Entry;Small;51;No;No;No;Good;Stayed
+30500;22;Female;28;Media;852;Good;High;0;;No;1;Associate C;Married;0;Mid;Small;0;No;No;No;Excellent;Stayed
+16381;19;Male;2;Healthcare;8753;Good;High;0;;No;1;MasterM;Married;80;Associate C;Married;0;Mid;Small;0;No;No;No;Good;Left
+73000;33;Female;1;Finance;8753;Good;High;0;;No;88;High School;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+34320;25;Male;10;Education;7483;Good;High;0;;Yes;1;Associate C;Divorced;56;Associate C;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+42550;41;Male;28;Technology;8811;Good;High;0;;No;1;PhD;Married;1;Mid;Small;0;No;No;No;Excellent;Stayed
+27906;38;Male;1;Healthcare;8811;Good;High;0;;No;1;PhD;Married;12;Associate C;Married;1;Entry;Small;75;No;No;No;Excellent;Stayed
+27906;38;Male;1;Healthcare;8811;Good;High;0;;No;1;PhD;Married;12;Associate C;Married;1;Entry;Small;75;No;No;No;Excellent;Stayed
+34320;25;Male;10;Education;7483;Good;High;0;;Yes;1;Associate C;Divorced;56;Associate C;Single;0;Mid;Small;0;No;No;No;Good;Stayed
+49043;24;Female;1;Healthcare;9467;Poor;High;0;;Yes;1;Associate C;Married;51;Associate C;Married;1;Entry;Small;0;No;No;No;Good;Stayed
+39893;48;Male;19;Technology;7943;Good;High;0;;No;1;MasterM;Married;77;Entry;Small;0;No;No;No;Good;Stayed
+30459;42;Male;2;Finance;8902;Good;High;0;;Yes;1;High School;Married;16;High School;Single;0;Mid;Small;97;No;No;No;Good;Stayed
+30459;42;Male;2;Finance;8902;Good;High;0;;Yes;1;High School;Married;16;High School;Single;0;Mid;Small;97;No;No;No;Good;Stayed
+64805;38;Female;4;Finance;831;Low;Low;2;;No;8;BachelorM;Single;4;Entry;Small;0;No;No;No;Good;Stayed
+4304;43;Male;11;Education;7962;Fair;Average;0;;No;1;MasterM;Married;2;Entry;Small;0;No;No;No;Good;Stayed
+47330;41;Male;21;Finance;9350;Good;High;0;;No;1;MasterM;Married;93;MasterM;Single;1;Entry;Small;0;No;No;No;Good;Left
+59440;21;Male;4;Education;6410;Good;High;0;;No;1;BachelorM;Married;63;Mid;Small;56;No;No;No;Good;Left
+30197;23;Female;13;Education;5357;Excellent;High;1;;No;1;MasterM;Married;57;Entry;Small;0;No;No;No;Good;Stayed
+67913;32;Female;19;Technology;7300;Good;High;0;;No;1;BachelorM;Married;92;MasterM;Married;1;Entry;Medium;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+53121;59;Female;25;Education;9401;Good;High;2;;No;1;BachelorM;Married;1;Mid;Medium;63;No;No;No;Good;Stayed
+28604;31;Female;2;Education;805;Low;Low;2;;No;1;BachelorM;Divorced;0;Entry;Small;0;No;No;No;Good;Stayed
+69176;24;Male;19;Technology;8040;Excellent;High;2;;Yes;1;MasterM;Married;94;Entry;Small;0;Yes;No;No;Good;Stayed
+6924;24;Female;2;Education;7500;Fair;High;0;;Yes;1;Associate C;Married;54;Associate C;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+28854;37;Female;7;Media;8097;Good;High;0;;No;1;Associate C;Married;0;Senior;Small;0;Yes;No;No;Excellent;Stayed
+29898;31;Female;22;Media;835;Good;High;1;;No;1;MasterM;Divorced;1;Entry;Small;0;No;No;No;Good;Stayed
+29952;45;Male;19;Technology;7618;Good;High;0;;No;1;MasterM;Married;82;Entry;Small;39;No;No;No;Good;Stayed
+54274;41;Female;15;Finance;7238;Fair;High;0;;No;1;Associate C;Married;58;Associate C;Married;1;Entry;Small;15;No;No;No;Good;Stayed
+48085;48;Female;27;Education;5357;Excellent;High;2;;Yes;1;Associate C;Single;0;Entry;Small;0;No;No;No;Good;Left
+67875;32;Female;7;Media;9800;Good;High;1;;Yes;1;BachelorM;Divorced;83;Associate C;Single;1;Senior;Small;66;No;No;No;Good;Stayed
+72023;31;Male;13;Technology;10693;Good;High;0;;No;1;BachelorM;Married;1;Mid;Small;0;No;No;No;Good;Stayed
+61199;22;Female;14;Healthcare;9264;Fair;High;0;;No;1;High School;Married;43;High School;Married;1;Entry;Small;0;No;No;No;Good;Left
+55048;41;Male;13;Technology;11007;Excellent;Very High;0;;No;1;Associate C;Single;0;Mid;Small;0;No;No;No;Good;Left
+59332;50;Male;38;Technology;10807;Good;High;2;;No;1;BachelorM;Married;0;Mid;Medium;0;No;No;No;Good;Stayed
+12838;53;Female;17;Education;12050;Good;High;2;;No;1;BachelorM;Divorced;0;Entry;Small;0;No;No;No;Good;Stayed
+2759;24;Female;8;Education;6427;Excellent;High;2;;No;1;Associate C;Married;1;Mid;Small;85;No;No;No;Good;Left
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+30565;23;Female;1;Education;5627;Good;High;1;;No;1;MasterM;Married;96;Entry;Small;0;No;No;No;Good;Left
+12018;23;Male;5;Education;6233;Good;High;0;;Yes;1;BachelorM;Married;96;Entry;Small;0;Yes;Yes;No;Good;Stayed
+28604;31;Female;2;Education;805;Low;Low;2;;No;1;BachelorM;Divorced;0;Entry;Small;0;No;No;No;Good;Stayed
+25401;16;Male;13;Education;5619;Good;High;0;;Yes;1;PhD;Single;30;Entry;Small;0;Yes;No;No;Good;Stayed
+25020;54;Male;38;Healthcare;7107;Good;Very High;0;;No;1;PhD;Married;39;Mid;Small;0;No;No;No;Good;Stayed
+10994;22;Female;7;Education;3350;Excellent;High;0;;No;1;Associate C;Married;65;Associate C;Single;0;Entry;Small;0;No;No;No;Good;Left
+23689;30;Female;3;Technology;1096;Fair;High;0;;No;1;Associate C;Married;2;Entry;Medium;0;No;No;No;Good;Left
+7109;35;Female;19;Technology;7646;Good;High;2;;No;1;MasterM;Married;87;Entry;Small;0;No;No;No;Good;Left
+30459;42;Male;2;Finance;8902;Good;High;0;;Yes;1;High School;Married;16;High School;Single;0;Mid;Small;97;No;No;No;Good;Stayed
+23689;30;Female;3;Technology;1096;Fair;High;0;;No;1;Associate C;Married;2;Entry;Medium;0;No;No;No;Good;Left
+34209;34;Male;4;Education;3759;Good;High;0;;No;1;Associate C;Married;15;MasterM;Married;0;Mid;Small;28;No;No;No;Good;Stayed
+34209;34;Male;4;Education;3759;Good;High;0;;No;1;Associate C;Married;15;MasterM;Married;0;Mid;Small;28;No;No;No;Good;Stayed
+38350;41;Female;24;Healthcare;7944;Poor;Medium;0;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+51248;20;Male;12;Healthcare;8045;Good;High;2;;No;1;MasterM;Married;43;Entry;Small;0;No;No;No;Good;Left
+60147;44;Male;31;Finance;8620;Good;Low;0;;No;1;MasterM;Married;87;Entry;Small;38;No;No;No;Excellent;Left
+67739;42;Male;27;Education;6203;Good;High;0;;Yes;1;MasterM;Married;21;Entry;Small;0;No;No;No;Good;Left
+67739;42;Male;27;Education;6203;Good;High;0;;Yes;1;MasterM;Married;21;Entry;Small;0;No;No;No;Good;Left
+61399;38;Female;10;Education;8904;Excellent;High;0;;No;1;Associate C;Divorced;20;Entry;Medium;61;No;No;No;Good;Stayed
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+18946;21;Male;6;Education;3797;Good;High;0;;No;1;Associate C;Married;44;Entry;Small;0;No;No;No;Good;Stayed
+54747;40;Male;34;Healthcare;8833;Good;High;0;;Yes;1;Associate C;Single;0;Entry;Large;106;No;No;No;Good;Stayed
+18747;31;Male;34;Healthcare;8833;Good;High;0;;Yes;1;Associate C;Single;0;Entry;Large;106;No;No;No;Good;Stayed
+54747;40;Male;34;Healthcare;8833;Good;High;0;;Yes;1;Associate C;Single;0;Entry;Large;106;No;No;No;Good;Stayed
+48046;43;Male;24;Technology;7090;Good;Very High;0;;No;1;MasterM;Married;90;MasterM;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+25935;33;Female;22;Education;413;Poor;High;0;;Yes;1;BachelorM;Married;27;Entry;Small;0;No;No;No;Good;Stayed
+16426;45;Female;13;Technology;7633;Very High;1;;Yes;1;High School;Married;35;Entry;Small;0;No;No;No;Good;Stayed
+31345;44;Female;19;Finance;9332;Fair;High;1;;No;1;BachelorM;Single;0;Entry;Small;0;No;No;No;Good;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+39947;44;Female;12;Finance;6900;Good;High;0;;No;1;Associate C;Married;36;Entry;Small;0;No;No;No;Good;Stayed
+59071;39;Male;14;Education;6900;Good;High;0;;No;1;Associate C;Married;36;Entry;Small;0;No;No;No;Good;Stayed
+21054;33;Female;10;Media;6460;Good;High;2;;No;1;BachelorM;Married;88;Entry;Small;0;No;No;No;Good;Stayed
+54575;43;Female;20;Education;791;Good;High;2;;No;1;BachelorM;Married;88;Entry;Small;0;No;No;No;Good;Stayed
+21054;33;Female;10;Media;6460;Good;High;2;;No;1;BachelorM;Married;88;Entry;Small;0;No;No;No;Good;Stayed
+54575;43;Female;20;Education;791;Good;High;2;;No;1;BachelorM;Married;88;Entry;Small;0;No;No;No;Good;Stayed
+318;31;Male;21;Education;383;Good;High;1;;No;1;PhD;Married;3;Mid;Small;0;No;No;No;Good;Left
+64881;34;Female;24;Technology;8240;Excellent;High;0;;No;1;BachelorM;Married;59;BachelorM;Married;1;Entry;Small;75;No;No;No;Good;Stayed
+28636;24;Male;11;Healthcare;8056;Good;High;2;;No;55;BachelorM;Divorced;2;Senior;Small;0;No;No;No;Excellent;Stayed
+38350;41;Female;24;Healthcare;7944;Poor;Medium;0;;No;1;High School;Married;0;Mid;Small;0;No;No;No;Good;Stayed
+68096;41;Male;2;Technology;518;Good;High;2;;No;1;Associate C;Married;27;Entry;Small;0;No;No;No;Good;Left
+64805;38;Female;4;Finance;831;Low;Low;2;;No;8;BachelorM;Single;4;Entry;Small;0;No;No;No;Good;Stayed
+28026;24;Male;15;Education;5280;Good;High;1;;No;1;Associate C;Married;79;Entry;Small;0;No;No;No;Good;Stayed
+42509;24;Female;15;Education;4622;Excellent;High;2;;No;1;Associate C;Married;85;Associate C;Single;1;Mid;Medium;0;No;No;No;Good;Left
+23689;30;Female;3;Technology;1096;Fair;High;0;;No;1;Associate C;Married;2;Entry;Medium;0;No;No;No;Good;Left
+56952;39;Female;5;Technology;6811;Good;High;0;;No;1;Associate C;Married;1;Entry;Medium;0;No;No;No;Good;Stayed
+69565;38;Male;1;Finance;7840;Poor;Very High;0;;No;1;Associate C;Single;1;Mid;Medium;0;Yes;No;No;Poor;Left
+318;31;Male;21;Education;383;Good;High;1;;No;1;PhD;Married;3;Mid;Small;0;No;No;No;Good;Left
+21803;41;Male;15;Media;6198;Good;High;0;;No;1;Associate C;Married;77;Entry;Small;0;No;No;No;Good;Stayed
+41897;45;Male;21;Healthcare;7897;Fair;Medium;0;;No;1;MasterM;Divorced;53;Mid;Medium;23;No;No;No;Fair;Stayed
+2801;43;Female;8;Technology;908;Poor;Average;1;;No;39;MasterM;Single;0;Entry;Small;0;No;No;No;Poor;Stayed
+3837;27;Female;2;Finance;10996;Fair;High;1;;No;1;High School;Single;0;Entry;Small;0;No;No;No;Good;Left
+50360;21;Female;17;Education;7571;Good;High;0;;No;1;High School;Married;47;Associate C;Single;1;Entry;Medium;58;No;No;No;Good;Stayed
+23028;46;Female;1;Healthcare;6400;Good;High;0;;No;1;MasterM;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+65026;36;Male;7;Education;5050;Good;High;1;;No;27;High School;Single;2;Entry;Medium;0;No;No;No;Excellent;Left
+9991;27;Male;2;Media;11000;Excellent;High;1;;Yes;1;Associate C;Single;78;Associate C;Married;0;Mid;Small;42;No;No;No;Excellent;Left
+21119;17;Male;10;Media;6113;Good;High;2;;No;1;PhD;Single;0;Entry;Small;0;No;No;No;Excellent;Left
+51334;30;Male;1;Healthcare;6302;Good;High;0;;No;1;High School;Married;62;Entry;Small;0;No;No;No;Good;Stayed
+51334;30;Male;1;Healthcare;6302;Good;High;0;;No;1;High School;Married;62;Entry;Small;0;No;No;No;Good;Stayed
+62080;45;Male;5;Technology;11573;Poor;High;0;;No;1;Associate C;Married;24;Mid;Medium;0;No;No;No;Excellent;Left
+57096;26;Male;17;Media;6523;Good;High;2;;Yes;28;BachelorM;Single;0;Entry;Small;23;Yes;No;No;Good;Left
+445;37;Male;18;Education;8077;Excellent;High;0;;No;1;BachelorM;Single;21;Entry;Small;0;No;No;No;Good;Stayed
+13161;40;Male;2;Media;5400;Good;Average;0;;No;1;MasterM;Married;11;Entry;Medium;0;No;No;No;Good;Stayed
+12075;53;Female;11;Healthcare;8987;Good;High;2;;No;1;Associate C;Married;4;Senior;Small;0;Yes;Yes;No;Poor;Stayed
+14045;18;Male;10;Media;5843;Good;High;0;;No;1;Associate C;Married;0;Entry;Medium;0;No;No;No;Good;Stayed
+24988;34;Male;11;Finance;8669;Good;High;0;;No;1;PhD;Married;1;Entry;Medium;34;No;No;No;Good;Stayed
+500

@@ -1,0 +1,28 @@
+[
+  {
+    "employee_id": 8410,
+    "age": 31,
+    "gender": "Male",
+    "years_at_company": 19,
+    "job_role": "Education",
+    "monthly_income": 5390,
+    "work_life_balance": "Excellent",
+    "job_satisfaction": "Medium",
+    "performance_rating": "Average",
+    "number_of_promotions": 2,
+    "overtime": "No",
+    "distance_from_home": 22,
+    "education_level": "Associate Degree",
+    "marital_status": "Married",
+    "number_of_dependents": 0,
+    "job_level": "Mid",
+    "company_size": "Medium",
+    "company_tenure_in_months": 89,
+    "remote_work": "No",
+    "leadership_opportunities": "No",
+    "innovation_opportunities": "No",
+    "company_reputation": "Excellent",
+    "employee_recognition": "Medium",
+    "attrition": "Stayed"
+  }
+]

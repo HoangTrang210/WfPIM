@@ -1,0 +1,101 @@
+﻿employee_id,age,gender,years_at_company,job_role,monthly_income,work_life_balance,job_satisfaction,performance_rating,number_of_promotions,overtime,distance_from_home,education_level,marital_status,number_of_dependents,job_level,company_size,company_tenure_in_months,remote_work,leadership_opportunities,innovation_opportunities,company_reputation,employee_recognition,attrition
+13956439,49,Male,15,Education,8459,Poor,Medium,Below Aver,1,No,75,Master's Degree,Married,1,Mid,Large,93.0,,No,No,Fair,,Left
+2879049,24,Female,16,Education,11223,Good,Very High,Average,0,No,27,High School,Single,1,Mid,Small,67.0,No,No,No,Excellent,,Stayed
+15852003,24,Male,29,Media,3681,Fair,Medium,Average,1,No,75,PhD,Married,4,Entry,Medium,93.0,No,No,No,Good,Yes,Stayed
+10308623,24,Female,1,Healthcare,3681,Good,High,Below Aver,0,No,75,Master's Degree,Single,0,Mid,Medium,78.0,,No,No,Poor,,Left
+11266677,24,Male,13,Healthcare,3681,Good,High,Average,0,Yes,46,PhD,Single,0,Mid,Medium,93.0,No,No,No,Good,,Stayed
+4139335,56,Male,1,Technology,10186,Good,High,High,2,No,75,Bachelor's Degree,Married,0,Entry,Medium,86.0,No,No,Yes,Excellent,Yes,Left
+13268574,36,Female,40,Finance,7289,Poor,High,Average,0,No,30,PhD,Married,1,Mid,Medium,93.0,No,No,No,Fair,,Stayed
+3358712,59,Female,16,Education,3681,Good,Medium,High,2,No,54,Associate Degree,Single,3,Mid,Medium,78.0,Yes,No,No,Excellent,Yes,Left
+8197045,59,Female,21,Healthcare,3681,Fair,Medium,High,0,No,5,Associate Degree,Married,0,Mid,Medium,77.0,No,No,No,Fair,Yes,Left
+15591500,54,Female,8,Education,3681,Excellent,High,Average,0,Yes,75,Master's Degree,Married,0,Mid,Medium,67.0,,No,No,Poor,,Stayed
+10035327,24,Female,1,Technology,4501,Excellent,High,High,3,Yes,20,High School,,0,Entry,Large,24.0,,No,No,Fair,Yes,Left
+15923698,30,Male,23,Education,10372,Good,High,High,0,Yes,66,Bachelor's Degree,Married,0,Entry,Medium,93.0,No,No,Yes,Good,,Stayed
+1002936,30,Male,44,Healthcare,8599,Good,High,High,0,Yes,75,Associate Degree,Married,0,Mid,Small,30.0,Yes,No,No,Fair,,Left
+9130016,59,Male,14,Education,11223,Poor,High,High,0,No,75,Master's Degree,Divorced,3,Entry,Small,21.0,No,No,No,Poor,,Stayed
+1060974,59,Female,4,Education,3681,Fair,High,Below Aver,3,No,5,High School,Married,0,Senior,Medium,47.0,No,No,No,Fair,Yes,Stayed
+14381420,59,Female,18,Technology,7617,Good,High,Average,2,No,75,Master's Degree,Single,1,Entry,Large,,No,No,No,Excellent,Yes,Stayed
+9180629,25,Female,18,Education,3681,Good,High,Low,3,No,5,Master's Degree,Married,0,Mid,Large,,No,No,No,Fair,Yes,Stayed
+4750636,38,Female,2,Healthcare,11223,Fair,Medium,Low,2,No,29,High School,Married,2,Mid,Medium,,No,No,Yes,Good,Yes,Stayed
+2001711,46,Male,23,Technology,3681,Poor,High,High,0,No,75,Bachelor's Degree,Single,0,Mid,Medium,93.0,No,No,No,Fair,,Left
+8391610,24,Male,25,Education,6748,Fair,High,High,1,Yes,52,High School,Married,4,Mid,Medium,88.0,No,No,No,Fair,,Stayed
+13824428,52,Male,1,Healthcare,5405,Excellent,Very High,Average,0,No,33,High School,,0,Mid,Medium,93.0,Yes,No,No,Excellent,,Stayed
+4328378,59,Male,17,Healthcare,3681,Poor,High,High,0,Yes,75,Master's Degree,Divorced,4,Mid,Medium,93.0,No,No,Yes,Poor,Yes,Left
+9654205,59,Male,30,Technology,3681,Good,High,Below Aver,3,No,46,Master's Degree,Married,2,Entry,Medium,44.0,No,No,Yes,Good,,Stayed
+12252504,24,Male,8,Healthcare,6669,Fair,High,High,1,Yes,75,Associate Degree,Married,0,Mid,Large,75.0,No,No,No,Fair,,Stayed
+15487162,59,Female,31,Education,3944,Poor,Very High,Average,0,No,16,PhD,Divorced,0,Mid,Medium,,,No,No,Fair,,Stayed
+710041,24,Male,1,Education,5544,Poor,High,Low,1,No,45,High School,Divorced,4,Senior,Medium,21.0,,No,No,Fair,,Left
+5196664,24,Female,1,Healthcare,4114,Good,High,High,2,No,33,Associate Degree,Married,0,Mid,Medium,93.0,No,No,No,Good,,Left
+8140439,59,Female,1,Education,11223,Fair,High,Average,3,Yes,75,High School,Single,0,Mid,Medium,21.0,No,No,No,Good,,Stayed
+9666863,43,Female,1,Education,6461,Poor,High,Average,0,No,75,High School,Married,4,Mid,Medium,32.0,No,No,No,Good,,Stayed
+11925147,59,Male,1,Education,3681,Fair,High,High,0,Yes,73,High School,,4,Mid,Medium,47.0,No,No,No,Good,,Stayed
+3144169,56,Male,21,Education,11223,Poor,High,High,0,No,40,Bachelor's Degree,Divorced,1,Senior,Medium,41.0,,No,No,Fair,,Stayed
+6371474,31,Female,8,Education,11223,Excellent,Medium,High,0,Yes,69,Bachelor's Degree,Divorced,1,Mid,Medium,79.0,No,No,No,Excellent,,Stayed
+12814326,40,Male,1,Media,3681,Excellent,Medium,Average,2,Yes,75,Bachelor's Degree,,2,Mid,Medium,62.0,Yes,No,No,Fair,,Stayed
+15131152,24,Male,2,Media,7153,Fair,High,Low,3,Yes,30,High School,Married,1,Mid,Small,,No,No,No,Fair,,Left
+10739761,59,Female,1,Healthcare,3681,Good,Very High,High,2,Yes,75,Bachelor's Degree,Single,0,Mid,Small,22.0,No,No,Yes,Fair,,Stayed
+3212868,53,Female,23,Healthcare,3681,Excellent,High,Average,0,No,75,Bachelor's Degree,Single,0,Mid,Medium,56.0,Yes,No,No,Good,Yes,Stayed
+14429457,59,Male,44,Education,4209,Good,Very High,Low,2,Yes,46,High School,Married,0,Entry,Medium,21.0,No,No,No,Excellent,,Stayed
+7546060,29,Female,1,Finance,9601,Poor,High,Average,0,No,14,Associate Degree,Single,4,Entry,Medium,83.0,No,No,No,Fair,,Stayed
+9532050,44,Male,1,Education,8817,Good,High,High,1,No,5,Master's Degree,Married,3,Mid,Small,21.0,No,No,No,Fair,,Stayed
+9619920,33,Female,16,Technology,11223,Good,High,High,3,No,5,High School,Married,3,Mid,Medium,61.0,No,No,No,Good,,Stayed
+13569732,41,Female,29,Education,3681,Good,Very High,Average,0,No,27,PhD,Married,4,Mid,Small,83.0,No,No,No,Good,,Stayed
+2423314,57,Male,33,Healthcare,3681,Fair,High,High,0,Yes,5,High School,Divorced,1,Mid,Medium,52.0,,No,No,Poor,,Stayed
+7575856,24,Male,12,Media,5858,Poor,High,Below Aver,3,No,75,High School,Married,0,Mid,Medium,80.0,Yes,No,No,Fair,,Stayed
+6635812,47,Male,1,Education,3681,Excellent,High,High,1,Yes,67,High School,Divorced,0,Mid,Medium,,Yes,No,Yes,Fair,,Stayed
+4811473,24,Male,1,Healthcare,4522,Good,High,High,0,No,51,High School,Married,2,Entry,Medium,93.0,No,No,No,Fair,,Stayed
+11258392,59,Female,26,Education,8574,Fair,High,High,0,Yes,74,High School,Single,0,Senior,Medium,67.0,Yes,No,No,Poor,,Stayed
+16137248,38,Male,38,Technology,3681,Excellent,High,High,3,Yes,32,PhD,Married,3,Mid,Medium,64.0,No,No,Yes,Excellent,,Left
+1278338,59,Female,10,Media,3681,Good,High,High,3,No,75,Associate Degree,Divorced,0,Mid,Medium,21.0,No,No,No,Fair,,Stayed
+8095346,59,Female,5,Technology,5360,Poor,High,High,1,Yes,75,Master's Degree,Married,4,Senior,Small,93.0,Yes,No,No,Good,,Stayed
+5102037,44,Male,8,Education,3681,Fair,High,High,2,Yes,62,High School,Married,0,Entry,Medium,,No,No,Yes,Fair,,Left
+2715417,24,Female,12,Technology,3681,Good,High,High,0,No,23,High School,Married,2,Mid,Medium,21.0,No,No,No,Fair,,Stayed
+7687995,59,Male,17,Media,3681,Good,Very High,High,3,No,8,High School,Divorced,4,Senior,Medium,40.0,No,No,No,Good,,Stayed
+5106297,59,Male,4,Media,8242,Good,Very High,Average,0,No,40,Bachelor's Degree,Married,4,Mid,Large,93.0,No,No,No,Excellent,,Stayed
+1234338,59,Male,15,Technology,3681,Good,High,High,2,No,12,Master's Degree,Married,2,Entry,Medium,57.0,No,No,No,Fair,,Stayed
+10567377,24,Male,40,Education,3681,Fair,High,Low,0,Yes,75,Master's Degree,Divorced,0,Entry,Large,32.0,No,No,No,Fair,,Stayed
+14392059,43,Male,1,Media,8283,Poor,Very High,High,2,Yes,75,Bachelor's Degree,Divorced,3,Entry,Small,83.0,No,No,No,Excellent,,Stayed
+13135073,25,Male,1,Education,9800,Poor,High,Average,1,No,75,High School,Divorced,3,Entry,Medium,21.0,No,No,No,Good,,Left
+8460898,31,Male,11,Finance,4391,Good,High,High,0,No,75,High School,Married,0,Mid,Small,31.0,No,No,No,Fair,,Stayed
+7959584,30,Male,44,Education,4599,Fair,Very High,Average,2,Yes,27,Associate Degree,Married,4,Mid,Small,,,No,Yes,Fair,,Left
+239811,24,Male,7,Healthcare,3836,Fair,Medium,Low,0,No,55,Associate Degree,Married,4,Mid,Medium,36.0,No,No,No,Fair,,Stayed
+7106593,24,Female,2,Healthcare,10264,Fair,Very High,High,1,No,48,Master's Degree,Married,0,Mid,Medium,78.0,No,No,No,Good,,Stayed
+9678311,59,Female,38,Education,10117,Poor,Very High,High,0,No,55,High School,Married,4,Entry,Medium,53.0,No,No,Yes,Good,Yes,Stayed
+14183048,59,Female,41,Education,4662,Fair,Medium,High,0,No,75,PhD,Divorced,4,Senior,Large,54.0,No,No,Yes,Excellent,,Left
+14676016,24,Female,1,Education,9891,Fair,High,High,3,No,50,High School,,3,Mid,Small,,No,No,No,Excellent,,Stayed
+11882154,41,Male,10,Finance,3681,Fair,Very High,High,0,No,47,PhD,Married,0,Mid,Medium,21.0,No,No,No,Fair,Yes,Stayed
+10200030,24,Male,14,Education,9685,Poor,High,Low,0,Yes,61,PhD,Married,0,Entry,Large,93.0,No,No,No,Fair,Yes,Left
+3565220,59,Female,27,Education,3681,Good,High,High,0,No,40,High School,Married,3,Mid,Medium,21.0,No,No,No,Excellent,,Stayed
+7124174,24,Female,14,Education,9029,Good,High,High,2,No,38,PhD,,1,Entry,Medium,93.0,No,No,No,Good,,Left
+11728334,47,Female,22,Healthcare,3681,Excellent,Very High,Average,0,No,75,High School,Married,4,Senior,Medium,21.0,No,No,Yes,Good,,Stayed
+2054806,59,Female,16,Education,6584,Good,High,Low,3,No,75,High School,Married,0,Mid,Medium,54.0,No,No,No,Good,,Left
+14197648,59,Male,12,Healthcare,6198,Good,High,High,1,No,32,Master's Degree,Single,4,Senior,Medium,63.0,Yes,No,No,Good,,Stayed
+4423712,24,Female,26,Education,4715,Excellent,High,High,0,Yes,42,Master's Degree,Married,4,Entry,Small,,No,No,No,Poor,,Left
+11637868,24,Male,1,Healthcare,3681,Excellent,High,High,0,No,9,Master's Degree,Single,2,Mid,Large,,No,No,No,Poor,Yes,Stayed
+10795124,24,Male,1,Education,8668,Fair,High,Below Aver,0,No,27,High School,Married,0,Mid,Medium,45.0,No,No,No,Fair,Yes,Left
+8168122,24,Male,37,Education,3681,Excellent,Very High,Average,0,Yes,75,High School,Married,4,Mid,Medium,21.0,,No,No,Good,,Stayed
+15004487,46,Male,22,Technology,3681,Excellent,High,High,2,Yes,75,PhD,Divorced,1,Mid,Small,79.0,,No,No,Excellent,,Stayed
+9925988,31,Male,1,Technology,9133,Good,Medium,Low,2,No,11,High School,Married,2,Mid,Medium,93.0,No,No,No,Excellent,,Stayed
+13258426,33,Female,31,Education,7576,Fair,Very High,High,0,No,5,High School,Married,2,Entry,Medium,,No,No,No,Fair,,Left
+8331394,24,Male,5,Education,3681,Fair,Medium,Low,0,No,75,High School,Divorced,4,Entry,Medium,92.0,No,No,No,Good,,Stayed
+14685504,35,Male,1,Media,4485,Fair,Very High,Average,0,Yes,75,Associate Degree,Married,0,Entry,Medium,91.0,No,No,No,Excellent,,Left
+8201869,47,Female,1,Finance,3681,Fair,Very High,Low,1,No,73,High School,Divorced,4,Entry,Small,93.0,No,No,No,Good,,Stayed
+11552453,59,Female,10,Education,5867,Good,Very High,High,1,No,5,PhD,Single,4,Mid,Medium,25.0,No,No,No,Excellent,,Stayed
+3709954,24,Female,29,Media,6047,Fair,High,Average,1,No,33,PhD,Married,4,Mid,Medium,72.0,No,No,No,Good,,Left
+895384,59,Male,35,Education,7099,Good,Very High,Average,3,No,10,PhD,Divorced,1,Senior,Medium,93.0,,No,Yes,Poor,,Stayed
+2853012,59,Female,30,Education,3681,Excellent,High,High,1,No,75,Master's Degree,Divorced,0,Entry,Small,29.0,,No,No,Poor,,Left
+8561039,48,Male,1,Education,3681,Fair,High,Low,3,No,75,High School,,1,Entry,Medium,32.0,Yes,No,No,Fair,Yes,Left
+11154019,24,Female,5,Education,3681,Poor,High,High,3,Yes,66,High School,Married,0,Entry,Medium,93.0,Yes,No,No,Excellent,,Stayed
+16575788,59,Female,11,Education,3681,Fair,High,Below Aver,3,Yes,75,High School,Married,2,Entry,Medium,53.0,No,No,No,Poor,,Left
+15297879,39,Male,6,Education,3681,Fair,High,Average,1,No,75,Associate Degree,Divorced,0,Entry,Medium,93.0,,No,No,Good,,Left
+14349319,27,Male,1,Education,7089,Poor,Very High,High,0,No,75,High School,Married,0,Mid,Medium,56.0,Yes,No,No,Fair,,Stayed
+6133226,24,Male,22,Education,3681,Excellent,High,High,3,Yes,75,High School,Married,4,Entry,Large,41.0,No,No,No,Poor,,Stayed
+16766407,24,Male,2,Media,11223,Poor,High,High,1,No,5,Bachelor's Degree,Married,3,Entry,Medium,88.0,No,No,No,Fair,Yes,Stayed
+10079696,26,Female,1,Education,11223,Good,Medium,Below Aver,1,No,19,Master's Degree,,1,Entry,Large,42.0,No,No,No,Fair,Yes,Left
+10279668,59,Female,1,Media,10656,Excellent,High,Average,3,No,75,PhD,Divorced,0,Mid,Medium,21.0,Yes,No,No,Good,,Stayed
+13549274,24,Female,35,Education,3681,Good,High,High,1,Yes,75,High School,Married,0,Entry,Small,21.0,No,No,Yes,Poor,,Stayed
+11096473,36,Female,44,Education,7118,Good,High,High,0,No,35,High School,Single,1,Mid,Medium,77.0,Yes,No,No,Good,,Stayed
+7705020,39,Female,5,Education,3681,Good,High,Below Aver,2,Yes,75,High School,Married,0,Mid,Medium,53.0,No,No,No,Fair,,Stayed
+7271213,44,Male,1,Education,11223,Poor,High,High,1,No,75,High School,Single,0,Mid,Medium,78.0,Yes,No,No,Excellent,,Stayed
+13536084,50,Female,9,Education,11223,Good,High,Average,1,No,51,High School,Single,0,Entry,Small,35.0,Yes,No,No,Fair,,Stayed
+6883363,43,Male,3,Education,11223,Good,Very High,High,3,No,5,PhD,Married,0,Entry,Medium,71.0,No,No,Yes,Poor,,Left

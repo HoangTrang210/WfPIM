@@ -1,0 +1,11 @@
+﻿employee_id,age,gender,years_at_company,job_role,monthly_income,work_life_balance,job_satisfaction,performance_rating,number_of_promotions,overtime,distance_from_home,education_level,marital_status,number_of_dependents,job_level,company_size,company_tenure_in_months,remote_work,leadership_opportunities,innovation_opportunities,company_reputation,employee_recognition,attrition
+8410,31,Male,19,Education,5390,Excellent,Medium,Average,2,No,22,Associate Degree,Married,0,Mid,Medium,89,No,No,No,Excellent,,Stayed
+64756,59,Female,4,Media,5534,Poor,High,Low,3,No,21,Master's Degree,Divorced,3,Mid,Medium,21,No,No,No,Fair,,Stayed
+30257,24,Female,10,Healthcare,8159,Good,High,Low,0,No,11,Bachelor's Degree,Married,3,Mid,Medium,74,No,No,No,Poor,,Stayed
+65791,36,Female,7,Education,3989,Good,High,High,1,No,27,High School,Single,2,Mid,Small,50,Yes,No,No,Good,,Stayed
+65026,56,Male,41,Education,4821,Fair,Very High,Average,0,Yes,71,High School,Divorced,0,Senior,Medium,68,No,No,No,Fair,,Stayed
+24368,38,Female,3,Technology,9977,Fair,High,Below Aver,3,No,37,Bachelor's Degree,Married,0,Mid,Medium,47,No,No,Yes,Fair,,Left
+64970,47,Male,23,Education,3681,Fair,High,High,1,Yes,75,High School,Divorced,3,Entry,Small,93,No,No,No,Good,,Left
+36999,48,Male,16,Finance,11223,Excellent,Very High,High,2,No,5,Master's Degree,Married,4,Entry,Medium,88,No,No,No,Excellent,,Stayed
+32714,57,Male,44,Education,3773,Good,Medium,High,1,Yes,39,High School,Married,4,Entry,Medium,75,No,No,No,Fair,,Stayed
+15944,24,Female,1,Healthcare,7319,Poor,High,Average,1,Yes,57,PhD,,4,Entry,Large,,,No,No,Good,Yes,Left
